@@ -8,8 +8,22 @@ Links related to bioinformatics, data analysis, and science.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [heading one](#heading-one)
-- [heading two](#heading-two)
+- [Containers](#containers)
+- [Data visualization](#data-visualization)
+- [Drawing](#drawing)
+- [Genome annotation](#genome-annotation)
+- [Genome assembly](#genome-assembly)
+- [GWAS](#gwas)
+- [Machine learning](#machine-learning)
+- [Metagenomics](#metagenomics)
+- [Phylogenomics](#phylogenomics)
+- [Pipeline development](#pipeline-development)
+- [Programming](#programming)
+- [RNA-Seq](#rna-seq)
+- [Statistics](#statistics)
+- [Tabular data](#tabular-data)
+- [Utilities](#utilities)
+- [Variant identification and analysis](#variant-identification-and-analysis)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
