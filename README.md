@@ -1,5 +1,7 @@
 # helpful_links
 
+[![Check Links](https://github.com/paulstothard/helpful_commands/actions/workflows/links.yml/badge.svg)](https://github.com/paulstothard/helpful_commands/actions/workflows/links.yml) [![GitHub Super-Linter](https://github.com/paulstothard/helpful_commands/actions/workflows/linter.yml/badge.svg)](https://github.com/paulstothard/helpful_commands/actions/workflows/linter.yml) [![Generate TOC](https://github.com/paulstothard/helpful_commands/actions/workflows/toc.yml/badge.svg)](https://github.com/paulstothard/helpful_commands/actions/workflows/toc.yml)
+
 Links related to bioinformatics, data analysis, and science.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
