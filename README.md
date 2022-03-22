@@ -36,10 +36,14 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Data visualization
 
-* [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer. ![GitHub Repo stars](https://img.shields.io/github/stars/arvestad/alv?style=social)
-* [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization. ![GitHub Repo stars](https://img.shields.io/github/stars/ChartsCSS/charts.css?style=social)
+* [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer.
+* [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
+* [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
+* [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
+* [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
+* [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
 
 ## Drawing
 
@@ -48,13 +52,17 @@ Links related to bioinformatics, data analysis, and science.
 ## Genome annotation
 
 * [ncbi/pgap](https://github.com/ncbi/pgap) - NCBI Prokaryotic Genome Annotation Pipeline.
+* [tseemann/prokka](https://github.com/tseemann/prokka) - Rapid prokaryotic genome annotation.
 
 ## Genome assembly
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
+* [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 
 ## GWAS
 
+* [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
+* [chrchang/plink-ng](https://github.com/chrchang/plink-ng) - A comprehensive update to the PLINK association analysis toolset.
 * [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
 
 ## Images
@@ -66,15 +74,17 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Machine learning
 
+* [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
 * [nidhaloff/igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows you to train, test and use models without writing code.
 
 ## Metagenomics
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [fbreitwieser/pavian](https://github.com/fbreitwieser/pavian) - Interactive analysis of metagenomics data.
+* [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 
 ## Phylogenomics
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree) - A user-friendly workflow for phylogenomics.
 
 ## Pipeline development
 
@@ -93,7 +103,12 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Sequence data
 
+* [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
 * [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+* [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+* [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
+* [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
+* [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 
 ## Statistics
 
@@ -102,12 +117,20 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Structural variants
 
+* [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
 * [project-name](http://example.com/) - A short description ends with a dot.
 
 ## Tabular data
 
+* [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
+* [genome/bam-readcount](https://github.com/genome/bam-readcount) - a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions.
+* [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
+* [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 * [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts CSV data to Markdown tables.
+* [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
+* [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+* [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 * [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
 ## Utilities
@@ -117,9 +140,12 @@ Links related to bioinformatics, data analysis, and science.
 * [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 * [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 * [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
+* [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 * [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML.
 * [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 
 ## Variant identification and analysis
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
+* [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
+* [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
