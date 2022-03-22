@@ -135,7 +135,7 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Utilities
 
-* [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
+* [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - A program for identifying or deleting duplicate files residing within specified directories.
 * [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 * [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 * [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
