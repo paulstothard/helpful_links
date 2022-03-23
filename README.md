@@ -40,7 +40,8 @@ Links related to bioinformatics, data analysis, and science.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
-* [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
+* [hms-dbmi/UpSetR/](https://github.com/taiyun/corrplot) - An R implementation of the UpSet set visualization technique.
+* [krassowski/complex-upset](https://github.com/hms-dbmi/UpSetR/) - A library for creating complex UpSet plots with ggplot2 geoms.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
@@ -57,7 +58,9 @@ Links related to bioinformatics, data analysis, and science.
 ## Genome assembly
 
 * [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
+* [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
+* [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
 
 ## GWAS
 
@@ -76,6 +79,7 @@ Links related to bioinformatics, data analysis, and science.
 
 * [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
 * [nidhaloff/igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows you to train, test and use models without writing code.
+* [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
 
 ## Metagenomics
 
@@ -108,6 +112,7 @@ Links related to bioinformatics, data analysis, and science.
 * [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 * [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
+* [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
 * [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 
 ## Statistics
