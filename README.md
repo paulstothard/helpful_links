@@ -10,11 +10,12 @@ Links related to bioinformatics, data analysis, and science.
 
 - [Containers](#containers)
 - [Data visualization](#data-visualization)
-- [Drawing](#drawing)
+- [Diagrams and flowcharts](#diagrams-and-flowcharts)
 - [Genome annotation](#genome-annotation)
 - [Genome assembly](#genome-assembly)
 - [GWAS](#gwas)
 - [Images](#images)
+- [Link collections](#link-collections)
 - [Machine learning](#machine-learning)
 - [Metagenomics](#metagenomics)
 - [Phylogenomics](#phylogenomics)
