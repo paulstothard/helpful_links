@@ -42,13 +42,15 @@ Links related to bioinformatics, data analysis, and science.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 * [hms-dbmi/UpSetR/](https://github.com/taiyun/corrplot) - An R implementation of the UpSet set visualization technique.
 * [krassowski/complex-upset](https://github.com/hms-dbmi/UpSetR/) - A library for creating complex UpSet plots with ggplot2 geoms.
+* [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest/) - Statistical testing and visualization of intersections among multiple sets.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
 
-## Drawing
+## Diagrams and flowcharts
 
 * [jgraph/drawio](https://github.com/jgraph/drawio) - A configurable diagramming application.
+* [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
 
 ## Genome annotation
 
@@ -75,6 +77,10 @@ Links related to bioinformatics, data analysis, and science.
 * [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations.
 * [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
+## Link collections
+
+* [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
+
 ## Machine learning
 
 * [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
@@ -96,7 +102,7 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Programming
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## RNA-Seq
 
