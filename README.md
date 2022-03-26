@@ -33,7 +33,8 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Containers
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
+* [Quay](https://quay.io) - Find and share container images.
 
 ## Data visualization
 
@@ -81,6 +82,7 @@ Links related to bioinformatics, data analysis, and science.
 ## Link collections
 
 * [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
+* [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome bioinformatics libraries and software.
 
 ## Machine learning
 
@@ -90,8 +92,10 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Metagenomics
 
+* [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 * [fbreitwieser/pavian](https://github.com/fbreitwieser/pavian) - Interactive analysis of metagenomics data.
 * [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
+* [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
 ## Phylogenomics
 
@@ -99,10 +103,13 @@ Links related to bioinformatics, data analysis, and science.
 
 ## Pipeline development
 
-* [project-name](http://example.com/) - A short description ends with a dot.
+* [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
+* [snakemake/snakemake](https://github.com/snakemake/snakemake) -  A tool to create reproducible and scalable data analyses.
 
 ## Programming
 
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
+* [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## RNA-Seq
@@ -125,12 +132,6 @@ Links related to bioinformatics, data analysis, and science.
 ## Statistics
 
 * [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
-* [project-name](http://example.com/) - A short description ends with a dot.
-
-## Structural variants
-
-* [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
-* [project-name](http://example.com/) - A short description ends with a dot.
 
 ## Tabular data
 
@@ -160,4 +161,5 @@ Links related to bioinformatics, data analysis, and science.
 
 * [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
+* [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
 * [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
