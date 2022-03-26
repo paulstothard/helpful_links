@@ -2,11 +2,14 @@
 
 New links are always welcome!
 
-## Guidelines
+## How to contribute
 
-1. Search `README.md` to see if the links are already included.
-2. Choose appropriate sections for the links or create new sections below the table of contents, which is generated automatically.
-3. Add your links, matching the style of the existing document.
-4. Check spelling and grammar.
-5. Avoid trailing whitespace.
-6. Create a pull request.
+1. Follow the steps in [this guide](https://www.dataschool.io/how-to-contribute-on-github/) on contributing to an open source project.
+
+## Adding new links
+
+1. Search `README.md` to see if any of the links you want to add are already in the collection.
+1. Don't edit the table of contents as it is generated automatically.
+1. Add links under the appropriate headings and create new headings when needed. Add your links and headings in alphabetical order.
+1. Check spelling and grammar.
+1. Remove trailing whitespace.
