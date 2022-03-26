@@ -24,7 +24,6 @@ Links related to bioinformatics, data analysis, and science.
 - [RNA-Seq](#rna-seq)
 - [Sequence data](#sequence-data)
 - [Statistics](#statistics)
-- [Structural variants](#structural-variants)
 - [Tabular data](#tabular-data)
 - [Utilities](#utilities)
 - [Variant identification and analysis](#variant-identification-and-analysis)
