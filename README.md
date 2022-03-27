@@ -11,6 +11,7 @@ Links related to bioinformatics, data analysis, and science.
 - [Containers](#containers)
 - [Data visualization](#data-visualization)
 - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+- [Document conversion](#document-conversion)
 - [Genome annotation](#genome-annotation)
 - [Genome assembly](#genome-assembly)
 - [GWAS](#gwas)
@@ -27,6 +28,7 @@ Links related to bioinformatics, data analysis, and science.
 - [Tabular data](#tabular-data)
 - [Utilities](#utilities)
 - [Variant identification and analysis](#variant-identification-and-analysis)
+- [Vim](#vim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
