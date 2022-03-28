@@ -32,6 +32,10 @@ Links related to bioinformatics, data analysis, and science.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## BAM and SAM
+
+* [genome/bam-readcount](https://github.com/genome/bam-readcount) - a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions.
+
 ## Containers
 
 * [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
@@ -71,6 +75,11 @@ Links related to bioinformatics, data analysis, and science.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 * [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
 
+## GTF and GFF
+
+* [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
+* [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
+
 ## GWAS
 
 * [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
@@ -102,6 +111,11 @@ Links related to bioinformatics, data analysis, and science.
 * [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
+## NCBI
+
+* [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
+* [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
+
 ## Phylogenomics
 
 * [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree) - A user-friendly workflow for phylogenomics.
@@ -117,6 +131,13 @@ Links related to bioinformatics, data analysis, and science.
 * [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
+## Raw sequence data
+
+* [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
+* [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+* [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+* [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+
 ## RNA-Seq
 
 * [nf-core/nanoseq](https://github.com/nf-core/nanoseq) - Nanopore demultiplexing, QC and alignment pipeline.
@@ -124,31 +145,18 @@ Links related to bioinformatics, data analysis, and science.
 * [STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion) - Uses the STAR aligner to identify candidate fusion transcripts supported by Illumina reads.
 * [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 
-## Sequence data
-
-* [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
-* [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
-* [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
-* [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
-* [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
-* [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
-
 ## Statistics
 
 * [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
 
 ## Tabular data
 
-* [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
-* [genome/bam-readcount](https://github.com/genome/bam-readcount) - a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions.
-* [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
 * [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis and manipulation library for Python.
 * [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts CSV data to Markdown tables.
 * [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
-* [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 * [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
 ## Utilities
@@ -161,6 +169,11 @@ Links related to bioinformatics, data analysis, and science.
 * [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 * [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML.
 * [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
+
+## VCF
+
+* [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+* [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 
 ## Variant identification and analysis
 
