@@ -2,7 +2,7 @@
 
 [![Check Links](https://github.com/paulstothard/helpful_links/actions/workflows/links.yml/badge.svg)](https://github.com/paulstothard/helpful_links/actions/workflows/links.yml) [![GitHub Super-Linter](https://github.com/paulstothard/helpful_links/actions/workflows/linter.yml/badge.svg)](https://github.com/paulstothard/helpful_links/actions/workflows/linter.yml) [![Generate TOC](https://github.com/paulstothard/helpful_links/actions/workflows/toc.yml/badge.svg)](https://github.com/paulstothard/helpful_links/actions/workflows/toc.yml)
 
-Links related to bioinformatics, data analysis, and science.
+Links to resources related to bioinformatics and data analysis.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
