@@ -76,6 +76,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
 * [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
+* [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 * [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
 
