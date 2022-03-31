@@ -38,7 +38,8 @@ Links to resources related to bioinformatics and data analysis.
 
 ## BAM and SAM
 
-* [genome/bam-readcount](https://github.com/genome/bam-readcount) - a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions.
+* [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
+* [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
 
 ## Containers
 
@@ -100,8 +101,13 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Link collections
 
+* [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 * [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
-* [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - A curated list of awesome bioinformatics libraries and software.
+* [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Awesome bioinformatics libraries and software.
+* [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - Bioinformatics bench-marking papers and resources.
+* [kmhernan/awesome-bioinformatics-formats](https://github.com/kmhernan/awesome-bioinformatics-formats) - Bioinformatics formats and publications.
+* [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - learning resources, research papers, tools, and other resources across different fields of biology.
+* [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Software packages and data resources for for single-cell data analysis.
 
 ## Machine learning
 
@@ -156,6 +162,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Tabular data
 
+* [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
 * [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis and manipulation library for Python.
