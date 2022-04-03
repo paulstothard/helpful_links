@@ -58,6 +58,7 @@ Links to resources related to bioinformatics and data analysis.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
+* [thackl/gggenomes](https://github.com/thackl/gggenomes) - A versatile graphics package for comparative genomics.
 
 ## Diagrams and flowcharts
 
@@ -68,10 +69,13 @@ Links to resources related to bioinformatics and data analysis.
 
 * [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
 
-## Genome annotation
+## Genome annotation and characterization
 
+* [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 * [ncbi/pgap](https://github.com/ncbi/pgap) - NCBI Prokaryotic Genome Annotation Pipeline.
+* [tseemann/mlst](https://github.com/tseemann/mlst) - Scan contig files against traditional PubMLST typing schemes.
 * [tseemann/prokka](https://github.com/tseemann/prokka) - Rapid prokaryotic genome annotation.
+* [WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM) - Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes.
 
 ## Genome assembly
 
@@ -85,12 +89,14 @@ Links to resources related to bioinformatics and data analysis.
 
 * [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
 * [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
+* [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - A suite of tools to handle gene annotations in any GTF/GFF format.
 
 ## GWAS
 
 * [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
 * [chrchang/plink-ng](https://github.com/chrchang/plink-ng) - A comprehensive update to the PLINK association analysis toolset.
 * [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
+* [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
 
 ## Images
 
@@ -105,6 +111,7 @@ Links to resources related to bioinformatics and data analysis.
 * [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
 * [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Awesome bioinformatics libraries and software.
 * [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - Bioinformatics bench-marking papers and resources.
+* [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software.
 * [kmhernan/awesome-bioinformatics-formats](https://github.com/kmhernan/awesome-bioinformatics-formats) - Bioinformatics formats and publications.
 * [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - learning resources, research papers, tools, and other resources across different fields of biology.
 * [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Software packages and data resources for for single-cell data analysis.
@@ -114,11 +121,13 @@ Links to resources related to bioinformatics and data analysis.
 * [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
 * [nidhaloff/igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows you to train, test and use models without writing code.
 * [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
+* [ssusnic/Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) - Machine learning for Flappy Bird using neural networks and a genetic algorithm.
 
 ## Metagenomics
 
 * [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 * [fbreitwieser/pavian](https://github.com/fbreitwieser/pavian) - Interactive analysis of metagenomics data.
+* [metagenome-atlas/atlas](https://github.com/metagenome-atlas/atlas) - Metagenome-Atlas is a easy-to-use metagenomic pipeline based on Snakemake.
 * [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
@@ -127,9 +136,10 @@ Links to resources related to bioinformatics and data analysis.
 * [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
 
-## Phylogenomics
+## Phylogenetics and phylogenomics
 
 * [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree) - A user-friendly workflow for phylogenomics.
+* [YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree) - Visualization and annotation of phylogenetic trees.
 
 ## Pipeline development
 
@@ -158,6 +168,8 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Statistics
 
+* [easystats/easystats](https://github.com/easystats/easystats) - A collection of R packages designed to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
+* [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing ggplot2 plots with statistical analysis.
 * [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
 
 ## Tabular data
