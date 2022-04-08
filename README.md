@@ -84,6 +84,7 @@ Links to resources related to bioinformatics and data analysis.
 * [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 * [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
+* [whatshap/whatshap](https://github.com/whatshap/whatshap) - Read-based phasing of genomic variants.
 
 ## GTF and GFF
 
@@ -144,12 +145,13 @@ Links to resources related to bioinformatics and data analysis.
 ## Pipeline development
 
 * [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
-* [snakemake/snakemake](https://github.com/snakemake/snakemake) -  A tool to create reproducible and scalable data analyses.
+* [snakemake/snakemake](https://github.com/snakemake/snakemake) - A tool to create reproducible and scalable data analyses.
+* [snakemake/snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - A collection of reusable wrappers for adding popular command-line tools to Snakemake workflows.
 
 ## Programming
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
-* [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.
+* [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## Raw sequence data
@@ -201,6 +203,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Variant identification and analysis
 
+* [ACEnglish/truvari](https://github.com/ACEnglish/truvari) - A toolkit for benchmarking, merging, and annotating structural variants.
 * [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
 * [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
