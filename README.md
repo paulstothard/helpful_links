@@ -111,6 +111,7 @@ Links to resources related to bioinformatics and data analysis.
 * [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 * [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
 * [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Awesome bioinformatics libraries and software.
+* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 * [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - Bioinformatics bench-marking papers and resources.
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software.
 * [kmhernan/awesome-bioinformatics-formats](https://github.com/kmhernan/awesome-bioinformatics-formats) - Bioinformatics formats and publications.
@@ -177,6 +178,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Tabular data
 
 * [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
+* [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 * [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis and manipulation library for Python.
@@ -193,6 +195,8 @@ Links to resources related to bioinformatics and data analysis.
 * [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 * [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
 * [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
+* [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
+* [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 * [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML.
 * [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 
