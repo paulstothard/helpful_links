@@ -117,6 +117,7 @@ Links to resources related to bioinformatics and data analysis.
 * [kmhernan/awesome-bioinformatics-formats](https://github.com/kmhernan/awesome-bioinformatics-formats) - Bioinformatics formats and publications.
 * [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - learning resources, research papers, tools, and other resources across different fields of biology.
 * [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Software packages and data resources for for single-cell data analysis.
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
 
 ## Machine learning
 
