@@ -65,6 +65,10 @@ Links to resources related to bioinformatics and data analysis.
 * [jgraph/drawio](https://github.com/jgraph/drawio) - A configurable diagramming application.
 * [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
 
+## EMBL-EBI
+
+* [Tools & Data Resources](https://www.ebi.ac.uk/services) - The European Bioinformatics Institute (EMBL-EBI) maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources.
+
 ## Document conversion
 
 * [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
@@ -136,7 +140,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## NCBI
 
-* [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
+* [All Resources](https://www.ncbi.nlm.nih.gov/guide/all/) - The National Center for Biotechnology Information (NCBI) advances science and health by providing access to biomedical and genomic information.
 * [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
 
 ## Phylogenetics and phylogenomics
@@ -161,6 +165,7 @@ Links to resources related to bioinformatics and data analysis.
 * [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
 * [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
 * [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+* [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 
 ## RNA-Seq
