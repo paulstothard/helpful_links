@@ -53,9 +53,9 @@ Links to resources related to bioinformatics and data analysis.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
-* [hms-dbmi/UpSetR/](https://github.com/taiyun/corrplot) - An R implementation of the UpSet set visualization technique.
-* [krassowski/complex-upset](https://github.com/hms-dbmi/UpSetR/) - A library for creating complex UpSet plots with ggplot2 geoms.
-* [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest/) - Statistical testing and visualization of intersections among multiple sets.
+* [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
+* [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
+* [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest) - Statistical testing and visualization of intersections among multiple sets.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
