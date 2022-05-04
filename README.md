@@ -180,6 +180,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [easystats/easystats](https://github.com/easystats/easystats) - A collection of R packages designed to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 * [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing ggplot2 plots with statistical analysis.
+* [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and visualize the results of multivariate data analyses.
 * [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
 
 ## Tabular data
