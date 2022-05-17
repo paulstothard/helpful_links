@@ -159,6 +159,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
 * [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
+* [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## Raw sequence data
@@ -186,6 +187,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Tabular data
 
 * [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
+* [bedops/bedops](https://github.com/bedops/bedops) - High-performance genomic feature operations.
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 * [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
