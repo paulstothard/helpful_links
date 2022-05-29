@@ -78,6 +78,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 * [ncbi/pgap](https://github.com/ncbi/pgap) - NCBI Prokaryotic Genome Annotation Pipeline.
+* [jotech/gapseq](https://github.com/jotech/gapseq) - Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks.
 * [tseemann/mlst](https://github.com/tseemann/mlst) - Scan contig files against traditional PubMLST typing schemes.
 * [tseemann/prokka](https://github.com/tseemann/prokka) - Rapid prokaryotic genome annotation.
 * [WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM) - Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes.
@@ -89,6 +90,7 @@ Links to resources related to bioinformatics and data analysis.
 * [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
 * [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
+* [vgl-hub/gfastats](https://github.com/vgl-hub/gfastats) - Generate FASTA file summary statistics and manipulate FASTA files.
 * [whatshap/whatshap](https://github.com/whatshap/whatshap) - Read-based phasing of genomic variants.
 
 ## GTF and GFF
@@ -165,6 +167,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Raw sequence data
 
 * [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
+* [huishenlab/biscuit](https://github.com/huishenlab/biscuit) - Perform alignment, DNA methylation and mutation calling, and allele specific methylation from bisulfite sequencing data.
 * [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
 * [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 * [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
