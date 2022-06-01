@@ -60,6 +60,7 @@ Links to resources related to bioinformatics and data analysis.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
 * [thackl/gggenomes](https://github.com/thackl/gggenomes) - A versatile graphics package for comparative genomics.
+* [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
 
 ## Diagrams and flowcharts
 
