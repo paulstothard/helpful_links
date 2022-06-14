@@ -77,6 +77,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Genome annotation and characterization
 
+* [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 * [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 * [ncbi/pgap](https://github.com/ncbi/pgap) - NCBI Prokaryotic Genome Annotation Pipeline.
 * [jotech/gapseq](https://github.com/jotech/gapseq) - Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks.
