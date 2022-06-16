@@ -42,7 +42,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## ATAC-seq
 
-* [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline. 
+* [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline.
 
 ## BAM and SAM
 
