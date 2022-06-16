@@ -37,10 +37,18 @@ Links to resources related to bioinformatics and data analysis.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## ATAC-seq
+
+* [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline. 
+
 ## BAM and SAM
 
 * [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
 * [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
+
+## ChIP-seq
+
+* [nf-core/chipseq](https://github.com/nf-core/chipseq) - ChIP-seq peak-calling, QC and differential analysis pipeline.
 
 ## Containers
 
@@ -67,13 +75,13 @@ Links to resources related to bioinformatics and data analysis.
 * [jgraph/drawio](https://github.com/jgraph/drawio) - A configurable diagramming application.
 * [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
 
-## EMBL-EBI
-
-* [Tools & Data Resources](https://www.ebi.ac.uk/services) - The European Bioinformatics Institute (EMBL-EBI) maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources.
-
 ## Document conversion
 
 * [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
+
+## EMBL-EBI
+
+* [Tools & Data Resources](https://www.ebi.ac.uk/services) - The European Bioinformatics Institute (EMBL-EBI) maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources.
 
 ## Genome annotation and characterization
 
@@ -143,6 +151,10 @@ Links to resources related to bioinformatics and data analysis.
 * [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
+## Methyl-seq
+
+* [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
+
 ## NCBI
 
 * [All Resources](https://www.ncbi.nlm.nih.gov/guide/all/) - The National Center for Biotechnology Information (NCBI) advances science and health by providing access to biomedical and genomic information.
@@ -170,9 +182,10 @@ Links to resources related to bioinformatics and data analysis.
 
 * [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
 * [huishenlab/biscuit](https://github.com/huishenlab/biscuit) - Perform alignment, DNA methylation and mutation calling, and allele specific methylation from bisulfite sequencing data.
-* [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
 * [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 * [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
+* [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
+* [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
 * [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 
 ## RNA-Seq
