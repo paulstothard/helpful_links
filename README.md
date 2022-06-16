@@ -8,12 +8,14 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [ATAC-seq](#atac-seq)
 - [BAM and SAM](#bam-and-sam)
+- [ChIP-seq](#chip-seq)
 - [Containers](#containers)
 - [Data visualization](#data-visualization)
 - [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [EMBL-EBI](#embl-ebi)
 - [Document conversion](#document-conversion)
+- [EMBL-EBI](#embl-ebi)
 - [Genome annotation and characterization](#genome-annotation-and-characterization)
 - [Genome assembly](#genome-assembly)
 - [GTF and GFF](#gtf-and-gff)
@@ -22,6 +24,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Link collections](#link-collections)
 - [Machine learning](#machine-learning)
 - [Metagenomics](#metagenomics)
+- [Methyl-seq](#methyl-seq)
 - [NCBI](#ncbi)
 - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
 - [Pipeline development](#pipeline-development)
