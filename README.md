@@ -48,6 +48,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
 * [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
+* [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
 
 ## ChIP-seq
 
@@ -66,6 +67,7 @@ Links to resources related to bioinformatics and data analysis.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
 * [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
+* [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
 * [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest) - Statistical testing and visualization of intersections among multiple sets.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
@@ -99,6 +101,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Genome assembly
 
 * [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
+* [adigenova/wengan](https://github.com/adigenova/wengan) - An accurate and ultra-fast hybrid genome assembler.
 * [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 * [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
