@@ -159,6 +159,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Methyl-seq
 
+* [EpiDiverse](https://github.com/EpiDiverse) - A collection of Nextflow pipelines for epigenome analysis.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 
 ## NCBI
