@@ -93,6 +93,7 @@ Links to resources related to bioinformatics and data analysis.
 * [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 * [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 * [ncbi/pgap](https://github.com/ncbi/pgap) - NCBI Prokaryotic Genome Annotation Pipeline.
+* [nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate) - Eukaryotic genome annotation pipeline.
 * [jotech/gapseq](https://github.com/jotech/gapseq) - Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks.
 * [tseemann/mlst](https://github.com/tseemann/mlst) - Scan contig files against traditional PubMLST typing schemes.
 * [tseemann/prokka](https://github.com/tseemann/prokka) - Rapid prokaryotic genome annotation.
@@ -102,6 +103,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
 * [adigenova/wengan](https://github.com/adigenova/wengan) - An accurate and ultra-fast hybrid genome assembler.
+* [alekseyzimin/masurca](https://github.com/alekseyzimin/masurca) - The MaSuRCA (Maryland Super Read Cabog Assembler) genome assembly and analysis toolkit.
 * [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 * [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
