@@ -12,6 +12,7 @@ Links to resources related to bioinformatics and data analysis.
 - [BAM and SAM](#bam-and-sam)
 - [ChIP-seq](#chip-seq)
 - [Containers](#containers)
+- [Data sharing](#data-sharing)
 - [Data visualization](#data-visualization)
 - [Diagrams and flowcharts](#diagrams-and-flowcharts)
 - [Document conversion](#document-conversion)
