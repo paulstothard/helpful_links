@@ -59,12 +59,17 @@ Links to resources related to bioinformatics and data analysis.
 * [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
 * [Quay](https://quay.io) - Find and share container images.
 
+## Data sharing
+
+* [Zenodo](https://zenodo.org) - Store research-related data, software, and reports and make them citable using a DOI. 
+
 ## Data visualization
 
 * [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
+* [GenomeVIS USASK](https://genomevis.usask.ca) - A variety of browser-based visualization tools to support genomics research.
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
 * [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
 * [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
