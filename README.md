@@ -62,7 +62,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Data sharing
 
-* [Zenodo](https://zenodo.org) - Store research-related data, software, and reports and make them citable using a DOI. 
+* [Zenodo](https://zenodo.org) - Store research-related data, software, and reports and make them citable using a DOI.
 
 ## Data visualization
 
