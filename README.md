@@ -170,6 +170,11 @@ Links to resources related to bioinformatics and data analysis.
 * [EpiDiverse](https://github.com/EpiDiverse) - A collection of Nextflow pipelines for epigenome analysis.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 
+## Multiomics
+
+* [bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) - A factor analysis model that provides a general framework for the integration of multiomic data sets in an unsupervised fashion.
+* [mixOmics](https://www.bioconductor.org/packages/release/bioc/html/mixOmics.html) - An R package that offers a wide range of multivariate methods for the exploration and integration of biological datasets with a particular focus on variable selection.
+
 ## NCBI
 
 * [All Resources](https://www.ncbi.nlm.nih.gov/guide/all/) - The National Center for Biotechnology Information (NCBI) advances science and health by providing access to biomedical and genomic information.
