@@ -26,6 +26,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Machine learning](#machine-learning)
 - [Metagenomics](#metagenomics)
 - [Methyl-seq](#methyl-seq)
+- [Multiomics](#multiomics)
 - [NCBI](#ncbi)
 - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
 - [Pipeline development](#pipeline-development)
