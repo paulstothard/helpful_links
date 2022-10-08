@@ -8,37 +8,38 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing](#data-sharing)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and characterization](#genome-annotation-and-characterization)
-- [Genome assembly](#genome-assembly)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing](#data-sharing)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and characterization](#genome-annotation-and-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -268,5 +269,6 @@ Links to resources related to bioinformatics and data analysis.
 * [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data.
 * [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
 * [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
-* [snakemake/snakemake](https://github.com/snakemake/snakemake) - A tool to create reproducible and scalable data analyses.
+* [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog/) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
 * [snakemake/snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - A collection of reusable wrappers for adding popular command-line tools to Snakemake workflows.
+* [snakemake/snakemake](https://github.com/snakemake/snakemake) - A tool to create reproducible and scalable data analyses.
