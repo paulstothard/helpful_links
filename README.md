@@ -8,37 +8,38 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing](#data-sharing)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and characterization](#genome-annotation-and-characterization)
-- [Genome assembly](#genome-assembly)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and characterization](#genome-annotation-and-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -61,8 +62,9 @@ Links to resources related to bioinformatics and data analysis.
 * [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
 * [Quay](https://quay.io) - Find and share container images.
 
-## Data sharing
+## Data sharing and management
 
+* [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git and git-annex.
 * [Zenodo](https://zenodo.org) - Store research-related data, software, and reports and make them citable using a DOI.
 
 ## Data visualization
@@ -70,6 +72,7 @@ Links to resources related to bioinformatics and data analysis.
 * [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
+* [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 * [GenomeVIS USASK](https://genomevis.usask.ca) - A variety of browser-based visualization tools to support genomics research.
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
@@ -78,6 +81,7 @@ Links to resources related to bioinformatics and data analysis.
 * [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest) - Statistical testing and visualization of intersections among multiple sets.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
+* [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - Provides geoms for ggplot2 to repel overlapping text labels.
 * [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
 * [thackl/gggenomes](https://github.com/thackl/gggenomes) - A versatile graphics package for comparative genomics.
 * [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
@@ -114,7 +118,9 @@ Links to resources related to bioinformatics and data analysis.
 * [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 * [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 * [malonge/RagTag](https://github.com/malonge/RagTag) - Tools for fast and flexible genome assembly scaffolding and improvement.
+* [rrwick/Bandage](https://github.com/rrwick/Bandage) - A tool that allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes, and MEGAHIT.
 * [rrwick/Trycycler](https://github.com/rrwick/Trycycler) - A tool for generating consensus long-read assemblies for bacterial genomes.
+* [rrwick/Unicycler](https://github.com/rrwick/Unicycler) - A hybrid assembly pipeline for bacterial genomes.
 * [tseemann/shovill](https://github.com/tseemann/shovill) - Assemble bacterial isolate genomes from Illumina paired-end reads.
 * [vgl-hub/gfastats](https://github.com/vgl-hub/gfastats) - Generate FASTA file summary statistics and manipulate FASTA files.
 * [whatshap/whatshap](https://github.com/whatshap/whatshap) - Read-based phasing of genomic variants.
@@ -220,14 +226,17 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Tabular data
 
+* [apache/arrow](https://github.com/apache/arrow) - A multi-language toolbox for accelerated data interchange and in-memory processing.
 * [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
 * [bedops/bedops](https://github.com/bedops/bedops) - High-performance genomic feature operations.
 * [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 * [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 * [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
+* [markfairbanks/tidytable](https://github.com/markfairbanks/tidytable) - tidytable is a data frame manipulation library for users who need data.table speed but prefer tidyverse-like syntax.
 * [OpenRefine](https://openrefine.org) - OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 * [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis and manipulation library for Python.
 * [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts CSV data to Markdown tables.
+* [ropensci/skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics.
 * [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
 * [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 * [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
@@ -249,7 +258,9 @@ Links to resources related to bioinformatics and data analysis.
 
 * [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
 * [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+* [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
 * [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
+* [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
 
 ## Variant identification and analysis
 
@@ -269,6 +280,7 @@ Links to resources related to bioinformatics and data analysis.
 * [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data.
 * [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
 * [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
-* [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog/) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
+* [ropensci/targets](https://github.com/ropensci/targets) - A Make-like pipeline tool for statistics and data science in R.
+* [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
 * [snakemake/snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - A collection of reusable wrappers for adding popular command-line tools to Snakemake workflows.
 * [snakemake/snakemake](https://github.com/snakemake/snakemake) - A tool to create reproducible and scalable data analyses.
