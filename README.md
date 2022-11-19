@@ -8,37 +8,38 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and characterization](#genome-annotation-and-characterization)
-- [Genome assembly](#genome-assembly)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and characterization](#genome-annotation-and-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -168,6 +169,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Metagenomics
 
+* [biobakery/MetaPhlAn](https://github.com/biobakery/MetaPhlAn) - A computational tool for profiling the composition of microbial communities (Bacteria, Archaea and Eukaryotes) from metagenomic shotgun sequencing data.
 * [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 * [fbreitwieser/pavian](https://github.com/fbreitwieser/pavian) - Interactive analysis of metagenomics data.
 * [metagenome-atlas/atlas](https://github.com/metagenome-atlas/atlas) - Metagenome-Atlas is a easy-to-use metagenomic pipeline based on Snakemake.
@@ -262,6 +264,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
 * [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+* [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
 * [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
 * [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 * [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
