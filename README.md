@@ -8,37 +8,38 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -202,6 +203,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Programming
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 * [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 * [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
