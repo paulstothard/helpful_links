@@ -8,38 +8,39 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -73,6 +74,7 @@ Links to resources related to bioinformatics and data analysis.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
 * [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
+* [ewels/MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
 * [GenomeVIS USASK](https://genomevis.usask.ca) - A variety of browser-based visualization tools to support genomics research.
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
 * [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
@@ -104,6 +106,7 @@ Links to resources related to bioinformatics and data analysis.
 * [bbuchfink/diamond](https://github.com/bbuchfink/diamond) - Accelerated BLAST compatible local sequence aligner.
 * [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 * [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
+* [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - A pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes.
 * [gbouras13/pharokka](https://github.com/gbouras13/pharokka) - Fast phage annotation.
 * [jime-sg/deleat](https://github.com/jime-sg/deleat) - Gene essentiality prediction and deletion design for bacterial genome reduction.
 * [jotech/gapseq](https://github.com/jotech/gapseq) - Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks.
@@ -120,6 +123,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Genome assembly
 
 * [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
+* [ablab/quast](https://github.com/ablab/quast) - Evaluates genome/metagenome assemblies by computing various metrics.
 * [adigenova/wengan](https://github.com/adigenova/wengan) - An accurate and ultra-fast hybrid genome assembler.
 * [alekseyzimin/masurca](https://github.com/alekseyzimin/masurca) - The MaSuRCA (Maryland Super Read Cabog Assembler) genome assembly and analysis toolkit.
 * [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
@@ -299,6 +303,8 @@ Links to resources related to bioinformatics and data analysis.
 * [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
 * [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
+* [marbl/gingr](https://github.com/marbl/gingr) - A flexible platform for visualizing and compressing alignments and phylogenetic trees.
+* [marbl/parsnp](https://github.com/marbl/parsnp) - A command-line tool for efficient microbial core genome alignment and SNP detection.
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
 * [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
 * [tseemann/snippy](https://github.com/tseemann/snippy) - Rapid haploid variant calling and core genome alignment.
