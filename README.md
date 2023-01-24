@@ -8,38 +8,39 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -140,6 +141,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
 * [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
+* [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
 * [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
 * [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 * [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
@@ -322,6 +324,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Workflow development and workflows
 
+* [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - A Python toolkit and pipelines for fully automated high throughput sequence data analysis.
 * [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data.
 * [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
 * [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
