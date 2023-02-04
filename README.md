@@ -8,38 +8,39 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,6 +52,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
 * [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
+* [pysam-developers/pysam](https://github.com/pysam-developers/pysam) - A Python module for reading and manipulating SAM/BAM/VCF/BCF files.
 * [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
 
 ## ChIP-seq
@@ -185,6 +187,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Machine learning
 
 * [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
+* [neural networks course](https://karpathy.ai/zero-to-hero.html) - A course by Andrej Karpathy on building neural networks, from scratch, in code.
 * [nidhaloff/igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows you to train, test and use models without writing code.
 * [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
 * [ssusnic/Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) - Machine learning for Flappy Bird using neural networks and a genetic algorithm.
@@ -209,6 +212,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Multiomics
 
 * [bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) - A factor analysis model that provides a general framework for the integration of multiomic data sets in an unsupervised fashion.
+* [cantinilab/momix-notebook](https://github.com/cantinilab/momix-notebook) - Evaluation of multiomics joint dimensionality reduction approaches.
 * [mixOmics](https://www.bioconductor.org/packages/release/bioc/html/mixOmics.html) - An R package that offers a wide range of multivariate methods for the exploration and integration of biological datasets with a particular focus on variable selection.
 
 ## NCBI
