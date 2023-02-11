@@ -8,38 +8,39 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data](#raw-sequence-data)
-- [RNA-Seq](#rna-seq)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data](#raw-sequence-data)
+  - [RNA-Seq](#rna-seq)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -262,6 +263,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Statistics
 
+* [Design of Experiments](https://online.stat.psu.edu/stat503/) - A course on the design of experiments.
 * [easystats/easystats](https://github.com/easystats/easystats) - A collection of R packages designed to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 * [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing ggplot2 plots with statistical analysis.
 * [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and visualize the results of multivariate data analyses.
@@ -292,6 +294,7 @@ Links to resources related to bioinformatics and data analysis.
 * [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 * [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
 * [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
+* [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
 * [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
 * [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
 * [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
