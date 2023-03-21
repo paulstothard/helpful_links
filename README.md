@@ -194,8 +194,10 @@ Links to resources related to bioinformatics and data analysis.
 * [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
 * [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - A JavaScript implementation of neural networks.
 * [keras-team/keras](https://github.com/keras-team/keras) - A deep learning API written in Python, running on top of the machine learning platform TensorFlow.
+* [marrlab/InstantDL](https://github.com/marrlab/InstantDL) - An easy and convenient deep learning pipeline for image segmentation and classification.
 * [neural networks course](https://karpathy.ai/zero-to-hero.html) - A course by Andrej Karpathy on building neural networks, from scratch, in code.
 * [nidhaloff/igel](https://github.com/nidhaloff/igel) - A machine learning tool that allows you to train, test and use models without writing code.
+* [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 * [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
 * [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
 
