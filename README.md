@@ -8,40 +8,42 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion](#document-conversion)
-- [EMBL-EBI](#embl-ebi)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Link collections](#link-collections)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Programming](#programming)
-- [Raw sequence data processing](#raw-sequence-data-processing)
-- [RNA-Seq](#rna-seq)
-- [Sequence utilities](#sequence-utilities)
-- [Source code editors and IDEs](#source-code-editors-and-ides)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [VCF](#vcf)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion](#document-conversion)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Link collections](#link-collections)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Programming](#programming)
+  - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
+  - [RNA-Seq](#rna-seq)
+  - [Sequence read alignment](#sequence-read-alignment)
+  - [Sequence utilities](#sequence-utilities)
+  - [Source code editors and IDEs](#source-code-editors-and-ides)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [VCF](#vcf)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,6 +56,7 @@ Links to resources related to bioinformatics and data analysis.
 * [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
 * [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
 * [pysam-developers/pysam](https://github.com/pysam-developers/pysam) - A Python module for reading and manipulating SAM/BAM/VCF/BCF files.
+* [samtools/samtools](https://github.com/samtools/samtools) - Tools for manipulating next-generation sequencing data.
 * [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
 
 ## ChIP-seq
@@ -248,15 +251,16 @@ Links to resources related to bioinformatics and data analysis.
 * [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
 * [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
-## Raw sequence data processing
+## Raw sequence data processing and QC
 
 * [BBMap](https://sourceforge.net/projects/bbmap/) - Includes BBMap, a short read aligner, as well as various other bioinformatic tools written in Java.
 * [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
 * [huishenlab/biscuit](https://github.com/huishenlab/biscuit) - Perform alignment, DNA methylation and mutation calling, and allele specific methylation from bisulfite sequencing data.
-* [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 * [kishwarshafin/pepper](https://github.com/kishwarshafin/pepper) - A genome inference module based on recurrent neural networks that enables long-read variant calling and nanopore assembly polishing in the PEPPER-Margin-DeepVariant pipeline.
 * [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
 * [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+* [s-andrews/FastQC](https://github.com/s-andrews/FastQC) - A quality control application for high throughput sequence data.
+* [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) - Plotting scripts for long read sequencing data.
 
 ## RNA-Seq
 
@@ -268,10 +272,16 @@ Links to resources related to bioinformatics and data analysis.
 * [stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
 * [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 
+## Sequence read alignment
+
+* [lh3/bwa](https://github.com/lh3/bwa) - Burrows-Wheeler aligner for short-read alignment.
+* [lh3/minimap2](https://github.com/lh3/minimap2) - A versatile pairwise aligner for genomic and spliced nucleotide sequences.
+* [philres/ngmlr](https://github.com/philres/ngmlr) - A long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations.
 ## Sequence utilities
 
 * [EMBOSS](https://emboss.sourceforge.net) - A free open source software analysis package developed for the needs of the molecular biology and bioinformatics user community.
 * [ialbert/bio](https://github.com/ialbert/bio) - A collection of command-line utilities for working with sequence records.
+* [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - Download files from NCBI Entrez by accession.
 * [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 * [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 * [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
@@ -346,6 +356,7 @@ Links to resources related to bioinformatics and data analysis.
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
 * [PacificBiosciences/pbsv](https://github.com/PacificBiosciences/pbsv) - PacBio structural variant calling and analysis tools.
 * [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
+* [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV) - Long-read structural variation detection.
 * [tseemann/snippy](https://github.com/tseemann/snippy) - Rapid haploid variant calling and core genome alignment.
 
 ## Vim
