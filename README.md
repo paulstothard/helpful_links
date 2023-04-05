@@ -78,12 +78,17 @@ Links to resources related to bioinformatics and data analysis.
 * [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
+* [davidgohel/ggiraph](https://github.com/davidgohel/ggiraph/) - Create dynamic ggplot graphs with tooltips, hover effects and JavaScript actions.
 * [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
 * [ewels/MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
 * [GenomeVIS USASK](https://genomevis.usask.ca) - A variety of browser-based visualization tools to support genomics research.
 * [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
+* [jbkunst/highcharter](https://github.com/jbkunst/highcharter/) - AN R wrapper for the Highcharts javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
 * [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
 * [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest) - Statistical testing and visualization of intersections among multiple sets.
+* [plotly/plotly.py](https://github.com/plotly/plotly.py) - An interactive, open-source, and browser-based graphing library for Python.
+* [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive, open-source, and browser-based graphing library for R.
+* [R CHARTS](https://r-charts.com) - Code examples of R graphs made with base R graphics, ggplot2 and other packages.
 * [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 * [seaborn](https://seaborn.pydata.org) - A Python data visualization library that provides a high-level interface for drawing attractive and informative statistical graphics.
 * [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - Provides geoms for ggplot2 to repel overlapping text labels.
@@ -343,6 +348,7 @@ Links to resources related to bioinformatics and data analysis.
 * [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
 * [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 * [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
+* [vembrane/vembrane](https://github.com/vembrane/vembrane) - Filter VCF files using Python expressions.
 
 ## Variant identification and analysis
 
