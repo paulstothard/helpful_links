@@ -223,6 +223,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Methyl-seq
 
 * [EpiDiverse](https://github.com/EpiDiverse) - A collection of Nextflow pipelines for epigenome analysis.
+* [kdkorthauer/dmrseq](https://github.com/kdkorthauer/dmrseq) - R package for inference of differentially methylated regions (DMRs) from bisulfite sequencing.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 
 ## Multiomics
