@@ -8,7 +8,41 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-
+- [ATAC-seq](#atac-seq)
+- [BAM and SAM](#bam-and-sam)
+- [ChIP-seq](#chip-seq)
+- [Containers](#containers)
+- [Data sharing and management](#data-sharing-and-management)
+- [Data visualization](#data-visualization)
+- [Diagrams and flowcharts](#diagrams-and-flowcharts)
+- [Document conversion](#document-conversion)
+- [EMBL-EBI](#embl-ebi)
+- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+- [Genome assembly](#genome-assembly)
+- [Genome visualization](#genome-visualization)
+- [GTF and GFF](#gtf-and-gff)
+- [GWAS](#gwas)
+- [Images](#images)
+- [Link collections](#link-collections)
+- [Machine learning](#machine-learning)
+- [Metagenomics](#metagenomics)
+- [Methyl-seq](#methyl-seq)
+- [Multiomics](#multiomics)
+- [NCBI](#ncbi)
+- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+- [Programming](#programming)
+- [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
+- [RNA-Seq](#rna-seq)
+- [Sequence read alignment](#sequence-read-alignment)
+- [Sequence utilities](#sequence-utilities)
+- [Source code editors and IDEs](#source-code-editors-and-ides)
+- [Statistics](#statistics)
+- [Tabular data](#tabular-data)
+- [Utilities](#utilities)
+- [VCF](#vcf)
+- [Variant identification and analysis](#variant-identification-and-analysis)
+- [Vim](#vim)
+- [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ## ATAC-seq
