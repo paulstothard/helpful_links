@@ -75,6 +75,7 @@ Links to resources related to bioinformatics and data analysis.
 
 * [arvestad/alv](https://github.com/arvestad/alv) - A console-based alignment viewer.
 * [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+* [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Examples of good and bad practices in data visualization.
 * [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis.
 * [davidgohel/ggiraph](https://github.com/davidgohel/ggiraph/) - Create dynamic ggplot graphs with tooltips, hover effects and JavaScript actions.
 * [dreamRs/esquisse](https://github.com/dreamRs/esquisse) - RStudio add-in to make plots interactively with ggplot2.
@@ -112,7 +113,6 @@ Links to resources related to bioinformatics and data analysis.
 ## Genome annotation and sequence characterization
 
 * [AdmiralenOla/Scoary](https://github.com/AdmiralenOla/Scoary) - Pan-genome wide association studies.
-* [bbuchfink/diamond](https://github.com/bbuchfink/diamond) - Accelerated BLAST compatible local sequence aligner.
 * [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 * [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 * [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - A pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes.
@@ -241,6 +241,7 @@ Links to resources related to bioinformatics and data analysis.
 * [achtman-lab/GrapeTree](https://github.com/achtman-lab/GrapeTree) - A fully interactive, tree visualization program, which supports facile manipulations of both tree layout and metadata.
 * [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree) - A user-friendly workflow for phylogenomics.
 * [biobakery/phylophlan](https://github.com/biobakery/phylophlan) - Precise phylogenetic analysis of microbial isolates and genomes from metagenomes.
+* [davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder) - Finds orthogroups and orthologs, infers rooted gene trees for all orthogroups and identifies all of the gene duplication events in those gene trees.
 * [IcyTree](https://icytree.org) - A browser-based phylogenetic tree viewer.
 * [iTOL](https://itol.embl.de) - iTOL is an online tool for the display, annotation, and management of phylogenetic trees.
 * [MEGA](https://www.megasoftware.net) - Conduct statistical analysis of molecular evolution and for constructing phylogenetic trees.
@@ -281,6 +282,11 @@ Links to resources related to bioinformatics and data analysis.
 * [lh3/bwa](https://github.com/lh3/bwa) - Burrows-Wheeler aligner for short-read alignment.
 * [lh3/minimap2](https://github.com/lh3/minimap2) - A versatile pairwise aligner for genomic and spliced nucleotide sequences.
 * [philres/ngmlr](https://github.com/philres/ngmlr) - A long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations.
+
+## Sequence searching and clustering
+
+* [bbuchfink/diamond](https://github.com/bbuchfink/diamond) - Accelerated BLAST compatible local sequence aligner.
+* [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2) - Search and cluster huge protein and nucleotide sequence sets.
 ## Sequence utilities
 
 * [EMBOSS](https://emboss.sourceforge.net) - A free open source software analysis package developed for the needs of the molecular biology and bioinformatics user community.
