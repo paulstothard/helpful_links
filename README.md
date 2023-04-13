@@ -34,6 +34,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
 - [RNA-Seq](#rna-seq)
 - [Sequence read alignment](#sequence-read-alignment)
+- [Sequence searching and clustering](#sequence-searching-and-clustering)
 - [Sequence utilities](#sequence-utilities)
 - [Source code editors and IDEs](#source-code-editors-and-ides)
 - [Statistics](#statistics)
