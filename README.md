@@ -287,6 +287,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Sequence searching and clustering
 
 - [bbuchfink/diamond](https://github.com/bbuchfink/diamond) - Accelerated BLAST compatible local sequence aligner.
+- [BLAST+](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html) - A suite of command-line tools to run BLAST searches.
 - [soedinglab/MMseqs2](https://github.com/soedinglab/MMseqs2) - Search and cluster huge protein and nucleotide sequence sets.
 
 ## Sequence utilities
