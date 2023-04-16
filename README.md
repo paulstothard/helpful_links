@@ -40,7 +40,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Statistics](#statistics)
 - [Tabular data](#tabular-data)
 - [Utilities](#utilities)
-- [VCF](#vcf)
+- [VCF files](#vcf-files)
 - [Variant identification and analysis](#variant-identification-and-analysis)
 - [Vim](#vim)
 - [Workflow development and workflows](#workflow-development-and-workflows)
