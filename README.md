@@ -247,6 +247,7 @@ Links to resources related to bioinformatics and data analysis.
 - [IcyTree](https://icytree.org) - A browser-based phylogenetic tree viewer.
 - [iTOL](https://itol.embl.de) - iTOL is an online tool for the display, annotation, and management of phylogenetic trees.
 - [MEGA](https://www.megasoftware.net) - Conduct statistical analysis of molecular evolution and for constructing phylogenetic trees.
+- [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species.
 - [stephaneguindon/phyml](https://github.com/stephaneguindon/phyml) - Package that uses modern statistical approaches to analyse alignments of nucleotide or amino acid sequences in a phylogenetic framework.
 - [YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree) - Visualization and annotation of phylogenetic trees.
 
