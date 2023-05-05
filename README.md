@@ -185,6 +185,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Link collections
 
 - [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
+- [cmdcolin/oddgenes](https://github.com/cmdcolin/oddgenes) - A small database of weird gene annotations.
 - [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
 - [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Awesome bioinformatics libraries and software.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
