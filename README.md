@@ -325,8 +325,11 @@ Links to resources related to bioinformatics and data analysis.
 - [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
 - [bedops/bedops](https://github.com/bedops/bedops) - High-performance genomic feature operations.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - A column-oriented database management system that allows generating analytical data reports in real-time.
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - A high-performance analytical database system that provides a rich SQL dialect.
 - [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
+- [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - A fork of the popular xsv command-line toolkit for working with CSV files that adds numerous useful features.
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - Turn a pandas dataframe into a Tableau-style interface for visual analysis.
 - [markfairbanks/tidytable](https://github.com/markfairbanks/tidytable) - tidytable is a data frame manipulation library for users who need data.table speed but prefer tidyverse-like syntax.
 - [OpenRefine](https://openrefine.org) - OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
@@ -334,6 +337,7 @@ Links to resources related to bioinformatics and data analysis.
 - [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts CSV data to Markdown tables.
 - [ropensci/skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
+- [shenwei356/csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
