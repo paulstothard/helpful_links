@@ -107,6 +107,22 @@ Links to resources related to bioinformatics and data analysis.
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
 
+## Documentation creation and publishing
+
+- [Antora](https://antora.org/) - A modular documentation site generator designed for technical documentation sites with customizable AsciiDoc structure for managing large-scale projects.
+- [Astro](https://astro.build/) - A modern static site generator allowing the creation of websites using a mix of static and dynamic components, supporting various rendering engines and frameworks.
+- [Docusaurus](https://docusaurus.io/) - An open-source framework for building static websites, particularly for documentation, with simple configuration, Markdown support, versioning, search, and localization.
+- [GitBook](https://www.gitbook.com/) - An online platform for creating and hosting documentation with version control, team collaboration, and integrations for a collaborative writing environment.
+- [honkit/honkit](https://github.com/honkit/honkit) - A command-line tool and Node.js library based on GitBook for building  online documentation or ebooks using Markdown files.
+- [Jekyll](https://jekyllrb.com/) - A static site generator for creating websites or blogs using plain text files and Markdown syntax with customizable templates.
+- [JupyterBook](https://jupyterbook.org/) - An open-source tool for building interactive, publication-quality books and documentation using Jupyter Notebooks and Markdown, incorporating code, visualizations, and interactive elements.
+- [MdBook](https://rust-lang.github.io/mdBook/) - A command-line utility that generates books or documentation websites from Markdown files, focusing on simplicity with table of contents, navigation, and search functionality.
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
+- [MkDocs](https://www.mkdocs.org/) - A Python-based static site generator for creating documentation websites using Markdown and YAML configuration, offering themes and plugins.
+- [Nextra](https://nextra.site/) - A minimalist and customizable Next.js theme for building documentation websites with Markdown and code syntax highlighting.
+- [Quarto](https://quarto.org/) - A scientific computing environment integrating Markdown, code, and output into a single format, enabling reproducible reports, books, or websites with multiple language support and rich media content.
+- [secretGeek/clowncar](https://github.com/secretGeek/clowncar) - A lightweight static site generator converting Markdown files into HTML pages without complex configurations or dependencies.
+
 ## EMBL-EBI
 
 - [Tools & Data Resources](https://www.ebi.ac.uk/services) - The European Bioinformatics Institute (EMBL-EBI) maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources.
