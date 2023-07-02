@@ -16,6 +16,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Data visualization](#data-visualization)
 - [Diagrams and flowcharts](#diagrams-and-flowcharts)
 - [Document conversion](#document-conversion)
+- [Documentation creation and publishing](#documentation-creation-and-publishing)
 - [EMBL-EBI](#embl-ebi)
 - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
 - [Genome assembly](#genome-assembly)
