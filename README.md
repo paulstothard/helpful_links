@@ -261,6 +261,7 @@ Links to resources related to bioinformatics and data analysis.
 - [AstrobioMike/GToTree](https://github.com/AstrobioMike/GToTree) - A user-friendly workflow for phylogenomics.
 - [biobakery/phylophlan](https://github.com/biobakery/phylophlan) - Precise phylogenetic analysis of microbial isolates and genomes from metagenomes.
 - [davidemms/OrthoFinder](https://github.com/davidemms/OrthoFinder) - Finds orthogroups and orthologs, infers rooted gene trees for all orthogroups and identifies all of the gene duplication events in those gene trees.
+- [FastTree](http://www.microbesonline.org/fasttree/) - Efficient in memory and time inference of phylogenetic trees from up to a million aligned nucleotide or protein sequences.
 - [IcyTree](https://icytree.org) - A browser-based phylogenetic tree viewer.
 - [iTOL](https://itol.embl.de) - iTOL is an online tool for the display, annotation, and management of phylogenetic trees.
 - [MEGA](https://www.megasoftware.net) - Conduct statistical analysis of molecular evolution and for constructing phylogenetic trees.
