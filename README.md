@@ -320,6 +320,7 @@ Links to resources related to bioinformatics and data analysis.
 - [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
 - [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
 - [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
+- [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
 
 ## Source code editors and IDEs
 
