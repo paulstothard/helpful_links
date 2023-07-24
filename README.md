@@ -128,10 +128,21 @@ Links to resources related to bioinformatics and data analysis.
 
 - [Tools & Data Resources](https://www.ebi.ac.uk/services) - The European Bioinformatics Institute (EMBL-EBI) maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources.
 
+## Genome alignment and comparison
+
+- [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
+- [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
+- [lastz/lastz](https://github.com/lastz/lastz) - A program for aligning DNA sequences, a pairwise aligner.
+- [mauve](https://darlinglab.org/mauve/mauve.html) - A system for efficiently constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion.
+- [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
+- [mummer4/mummer](https://github.com/mummer4/mummer) - A versatile and fast alignment tool for DNA and protein sequences that can align mammalian genomes in a few hours.
+- [ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI) - Fast alignment-free computation of whole-genome average nucleotide identity (ANI).
+- [schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr) - Plot synteny and structural rearrangements between genomes.
+- [schneebergerlab/syri](https://github.com/schneebergerlab/syri) - Predict and visualize genomic differences between related genomes using whole-genome assemblies.
+
 ## Genome annotation and sequence characterization
 
 - [AdmiralenOla/Scoary](https://github.com/AdmiralenOla/Scoary) - Pan-genome wide association studies.
-- [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 - [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 - [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - A pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes.
 - [gbouras13/pharokka](https://github.com/gbouras13/pharokka) - Fast phage annotation.
@@ -142,7 +153,6 @@ Links to resources related to bioinformatics and data analysis.
 - [ncbi/pgap](https://github.com/ncbi/pgap) - Annotate bacterial and archaeal genomes (chromosomes and plasmids).
 - [nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate) - Eukaryotic genome annotation pipeline.
 - [oschwengers/bakta](https://github.com/oschwengers/bakta) - A tool for the rapid and standardized annotation of bacterial genomes and plasmids from isolates and MAGs.
-- [ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI) - Fast alignment-free computation of whole-genome average nucleotide identity (ANI).
 - [replikation/What_the_Phage](https://github.com/replikation/What_the_Phage) - A scalable and easy-to-use workflow for phage identification and analysis.
 - [sanger-pathogens/Roary](https://github.com/sanger-pathogens/Roary) - Rapid large-scale prokaryote pan genome analysis.
 - [tseemann/mlst](https://github.com/tseemann/mlst) - Scan contig files against traditional PubMLST typing schemes.
@@ -176,14 +186,9 @@ Links to resources related to bioinformatics and data analysis.
 ## Genome visualization
 
 - [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
-- [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
-- [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 - [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
-- [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
-- [schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr) - Plot synteny and structural rearrangements between genomes.
-- [schneebergerlab/syri](https://github.com/schneebergerlab/syri) - Predict and visualize genomic differences between related genomes using whole-genome assemblies.
 
 ## GTF and GFF
 
@@ -406,6 +411,7 @@ Links to resources related to bioinformatics and data analysis.
 - [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
 - [PacificBiosciences/pbsv](https://github.com/PacificBiosciences/pbsv) - PacBio structural variant calling and analysis tools.
 - [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
+- [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 - [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV) - Long-read structural variation detection.
 - [tseemann/snippy](https://github.com/tseemann/snippy) - Rapid haploid variant calling and core genome alignment.
 
