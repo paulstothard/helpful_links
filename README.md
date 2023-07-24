@@ -18,6 +18,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Document conversion](#document-conversion)
 - [Documentation creation and publishing](#documentation-creation-and-publishing)
 - [EMBL-EBI](#embl-ebi)
+- [Genome alignment and comparison](#genome-alignment-and-comparison)
 - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
 - [Genome assembly](#genome-assembly)
 - [Genome visualization](#genome-visualization)
