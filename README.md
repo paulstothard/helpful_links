@@ -32,6 +32,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Multiomics](#multiomics)
 - [NCBI](#ncbi)
 - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+- [Population genetics and management](#population-genetics-and-management)
 - [Programming](#programming)
 - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
 - [RNA-Seq](#rna-seq)
