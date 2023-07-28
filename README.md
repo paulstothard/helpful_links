@@ -278,7 +278,6 @@ Links to resources related to bioinformatics and data analysis.
 - [IcyTree](https://icytree.org) - A browser-based phylogenetic tree viewer.
 - [iTOL](https://itol.embl.de) - iTOL is an online tool for the display, annotation, and management of phylogenetic trees.
 - [MEGA](https://www.megasoftware.net) - Conduct statistical analysis of molecular evolution and for constructing phylogenetic trees.
-- [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species.
 - [stephaneguindon/phyml](https://github.com/stephaneguindon/phyml) - Package that uses modern statistical approaches to analyse alignments of nucleotide or amino acid sequences in a phylogenetic framework.
 - [YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree) - Visualization and annotation of phylogenetic trees.
 
@@ -291,6 +290,7 @@ Links to resources related to bioinformatics and data analysis.
 - [fastStructure](https://rajanil.github.io/fastStructure/) - Infer population structure from large SNP genotype data.
 - [HAPMIX](https://www.hsph.harvard.edu/alkes-price/software/) - Infer chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.
 - [lima1/franzpedigree](https://github.com/lima1/franzpedigree) - A fast and flexible parentage inference program for natural populations.
+- [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species.
 - [NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) - A tool for estimating individual admixture proportions from NGS data that makes use of genotype likelihoods and works well for medium and low coverage NGS data.
 - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html) - Use multi-locus genotype data to investigate population structure.
 
