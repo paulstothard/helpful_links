@@ -291,7 +291,7 @@ Links to resources related to bioinformatics and data analysis.
 - [fastStructure](https://rajanil.github.io/fastStructure/) - Infer population structure from large SNP genotype data.
 - [HAPMIX](https://www.hsph.harvard.edu/alkes-price/software/) - Infer chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.
 - [lima1/franzpedigree](https://github.com/lima1/franzpedigree) - A fast and flexible parentage inference program for natural populations.
-- [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species.
+- [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species using VCF files and genotype uncertainty.
 - [NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) - A tool for estimating individual admixture proportions from NGS data that makes use of genotype likelihoods and works well for medium and low coverage NGS data.
 - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html) - Use multi-locus genotype data to investigate population structure.
 
