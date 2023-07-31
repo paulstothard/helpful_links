@@ -8,6 +8,7 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Audiovisual](#audiovisual)
 - [ATAC-seq](#atac-seq)
 - [BAM and SAM](#bam-and-sam)
 - [ChIP-seq](#chip-seq)
