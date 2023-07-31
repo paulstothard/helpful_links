@@ -49,6 +49,11 @@ Links to resources related to bioinformatics and data analysis.
 - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## Audiovisual
+
+- [ffmpeg](https://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - A tool to help you build complex FFmpeg commands without writing a single line of code.
+
 ## ATAC-seq
 
 - [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline.
@@ -207,8 +212,10 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Images
 
+- [BioRender](https://biorender.com) - Create professional science figures in minutes.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
+- [GIMP](https://www.gimp.org) - A free and open-source raster graphics editor.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations.
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
