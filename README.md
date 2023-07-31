@@ -208,6 +208,7 @@ Links to resources related to bioinformatics and data analysis.
 - [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
 - [chrchang/plink-ng](https://github.com/chrchang/plink-ng) - A comprehensive update to the PLINK association analysis toolset.
 - [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
+- [TASSEL](https://www.maizegenetics.net/tassel) - A software package for assessing diversity, linkage disequilibrium, relatedness, and genotype / phenotype associations.
 - [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
 
 ## Images
@@ -289,7 +290,7 @@ Links to resources related to bioinformatics and data analysis.
 - [stephaneguindon/phyml](https://github.com/stephaneguindon/phyml) - Package that uses modern statistical approaches to analyse alignments of nucleotide or amino acid sequences in a phylogenetic framework.
 - [YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree) - Visualization and annotation of phylogenetic trees.
 
-## Population genetics and management
+## Population genetics and conservation
 
 - [ADMIXTURE](https://dalexander.github.io/admixture/) - A software tool for maximum likelihood estimation of individual ancestries from multilocus SNP genotype datasets.
 - [ANGSD/angsd](https://github.com/ANGSD/angsd) - Perform population genetic analyses using raw sequencing data or by using genotype likelihoods.
@@ -301,6 +302,7 @@ Links to resources related to bioinformatics and data analysis.
 - [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species using VCF files and genotype uncertainty.
 - [NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) - A tool for estimating individual admixture proportions from NGS data that makes use of genotype likelihoods and works well for medium and low coverage NGS data.
 - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html) - Use multi-locus genotype data to investigate population structure.
+- [thibautjombart/adegenet](https://github.com/thibautjombart/adegenet) - An R package package for the exploratory analysis of genetic data.
 
 ## Programming
 
