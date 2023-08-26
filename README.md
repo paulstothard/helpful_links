@@ -145,6 +145,7 @@ Links to resources related to bioinformatics and data analysis.
 - [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
 - [mummer4/mummer](https://github.com/mummer4/mummer) - A versatile and fast alignment tool for DNA and protein sequences that can align mammalian genomes in a few hours.
 - [ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI) - Fast alignment-free computation of whole-genome average nucleotide identity (ANI).
+- [paulstothard/cgview_comparison_tool](https://github.com/paulstothard/cgview_comparison_tool) - A package for visually comparing bacterial, plasmid, chloroplast, and mitochondrial sequences.
 - [schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr) - Plot synteny and structural rearrangements between genomes.
 - [schneebergerlab/syri](https://github.com/schneebergerlab/syri) - Predict and visualize genomic differences between related genomes using whole-genome assemblies.
 
