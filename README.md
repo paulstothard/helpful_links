@@ -173,6 +173,8 @@ Links to resources related to bioinformatics and data analysis.
 - [ablab/quast](https://github.com/ablab/quast) - Evaluates genome/metagenome assemblies by computing various metrics.
 - [adigenova/wengan](https://github.com/adigenova/wengan) - An accurate and ultra-fast hybrid genome assembler.
 - [alekseyzimin/masurca](https://github.com/alekseyzimin/masurca) - The MaSuRCA (Maryland Super Read Cabog Assembler) genome assembly and analysis toolkit.
+- [BUSCO](https://busco.ezlab.org) - Evaluate the completeness of a genome assembly and annotation by assessing the presence of a set of single-copy, conserved orthologous genes.
+- [Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM) - Assess the quality of genomes recovered from isolates, single cells, or metagenomes.
 - [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 - [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 - [lbcb-sci/racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
