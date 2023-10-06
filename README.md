@@ -382,6 +382,7 @@ Links to resources related to bioinformatics and data analysis.
 - [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and visualize the results of multivariate data analyses.
 - [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+- [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) - Semi-automated enrichment analysis for Gene Ontology (GO) terms.
 
 ## Tabular data
 
