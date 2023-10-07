@@ -317,6 +317,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
+- [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices template for bash scripts.
 - [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
