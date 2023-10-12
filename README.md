@@ -380,6 +380,7 @@ Links to resources related to bioinformatics and data analysis.
 - [easystats/easystats](https://github.com/easystats/easystats) - A collection of R packages designed to provide a unifying and consistent framework to tame, discipline, and harness the scary R statistics and their pesky models.
 - [easystats/report](https://github.com/easystats/report) - Automatically produces reports of R models and data frames according to best practices guidelines (e.g., APA’s style), ensuring standardization and quality in results reporting.
 - [IndrajeetPatil/ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - Enhancing ggplot2 plots with statistical analysis.
+- [jasp-stats/jasp-desktop](https://github.com/jasp-stats/jasp-desktop) - A complete statistical package for both Bayesian and frequentist statistical methods, that is easy to use and familiar to users of SPSS.
 - [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and visualize the results of multivariate data analyses.
 - [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
