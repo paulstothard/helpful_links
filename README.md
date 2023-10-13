@@ -153,6 +153,7 @@ Links to resources related to bioinformatics and data analysis.
 
 - [AdmiralenOla/Scoary](https://github.com/AdmiralenOla/Scoary) - Pan-genome wide association studies.
 - [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
+- [fwhelan/coinfinder](https://github.com/fwhelan/coinfinder) - A tool for the identification of coincident (associating and dissociating) genes in pangenomes.
 - [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - A pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes.
 - [gbouras13/pharokka](https://github.com/gbouras13/pharokka) - Fast phage annotation.
 - [gtonkinhill/panaroo](https://github.com/gtonkinhill/panaroo) - Producing polished prokaryotic pangenomes.
