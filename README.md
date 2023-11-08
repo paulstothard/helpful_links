@@ -225,6 +225,8 @@ Links to resources related to bioinformatics and data analysis.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
 - [GIMP](https://www.gimp.org) - A free and open-source raster graphics editor.
+- [ImageJ](https://imagej.net/ij/index.html) - A Java-based image processing program developed at the National Institutes of Health.
+- [ImageMagick](https://imagemagick.org) - A free and open-source software suite for displaying, converting, and editing raster image and vector image files.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations.
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
@@ -460,6 +462,7 @@ Links to resources related to bioinformatics and data analysis.
 - [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
 - [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
+- [nf-core/tools](https://github.com/nf-core/tools) - Tools for working with nf-core pipelines.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - A framework to build collaborative and modular pipelines.
 - [ropensci/targets](https://github.com/ropensci/targets) - A Make-like pipeline tool for statistics and data science in R.
 - [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
