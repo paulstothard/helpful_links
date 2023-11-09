@@ -50,14 +50,15 @@ Links to resources related to bioinformatics and data analysis.
 - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-## Audiovisual
-
-- [ffmpeg](https://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
-- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - A tool to help you build complex FFmpeg commands without writing a single line of code.
 
 ## ATAC-seq
 
 - [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline.
+
+## Audiovisual
+
+- [ffmpeg](https://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - A tool to help you build complex FFmpeg commands without writing a single line of code.
 
 ## BAM and SAM
 
@@ -171,8 +172,8 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Genome assembly
 
-- [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
 - [ablab/quast](https://github.com/ablab/quast) - Evaluates genome/metagenome assemblies by computing various metrics.
+- [ablab/spades](https://github.com/ablab/spades) - SPAdes genome assembler.
 - [adigenova/wengan](https://github.com/adigenova/wengan) - An accurate and ultra-fast hybrid genome assembler.
 - [alekseyzimin/masurca](https://github.com/alekseyzimin/masurca) - The MaSuRCA (Maryland Super Read Cabog Assembler) genome assembly and analysis toolkit.
 - [BUSCO](https://busco.ezlab.org) - Evaluate the completeness of a genome assembly and annotation by assessing the presence of a set of single-copy, conserved orthologous genes.
@@ -318,10 +319,10 @@ Links to resources related to bioinformatics and data analysis.
 ## Programming
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices template for bash scripts.
 - [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## Raw sequence data processing and QC
@@ -425,17 +426,6 @@ Links to resources related to bioinformatics and data analysis.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML.
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 
-## VCF files
-
-- [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
-- [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
-- [knausb/vcfR](https://github.com/knausb/vcfR) - A package to manipulate and visualize VCF data in R.
-- [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
-- [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
-- [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
-- [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
-- [vembrane/vembrane](https://github.com/vembrane/vembrane) - Filter VCF files using Python expressions.
-
 ## Variant identification and analysis
 
 - [ACEnglish/truvari](https://github.com/ACEnglish/truvari) - A toolkit for benchmarking, merging, and annotating structural variants.
@@ -452,6 +442,17 @@ Links to resources related to bioinformatics and data analysis.
 - [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV) - Long-read structural variation detection.
 - [tseemann/snippy](https://github.com/tseemann/snippy) - Rapid haploid variant calling and core genome alignment.
 
+## VCF files
+
+- [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
+- [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+- [knausb/vcfR](https://github.com/knausb/vcfR) - A package to manipulate and visualize VCF data in R.
+- [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
+- [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
+- [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
+- [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
+- [vembrane/vembrane](https://github.com/vembrane/vembrane) - Filter VCF files using Python expressions.
+
 ## Vim
 
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Vim guide for beginner and advanced users.
@@ -461,8 +462,8 @@ Links to resources related to bioinformatics and data analysis.
 - [bcbio/bcbio-nextgen](https://github.com/bcbio/bcbio-nextgen) - A Python toolkit and pipelines for fully automated high throughput sequence data analysis.
 - [maxplanck-ie/snakepipes](https://github.com/maxplanck-ie/snakepipes) - Customizable workflows based on snakemake and python for the analysis of NGS data.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
-- [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
 - [nf-core/tools](https://github.com/nf-core/tools) - Tools for working with nf-core pipelines.
+- [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - A framework to build collaborative and modular pipelines.
 - [ropensci/targets](https://github.com/ropensci/targets) - A Make-like pipeline tool for statistics and data science in R.
 - [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
