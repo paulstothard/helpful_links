@@ -8,8 +8,8 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Audiovisual](#audiovisual)
 - [ATAC-seq](#atac-seq)
+- [Audiovisual](#audiovisual)
 - [BAM and SAM](#bam-and-sam)
 - [ChIP-seq](#chip-seq)
 - [Containers](#containers)
@@ -44,8 +44,8 @@ Links to resources related to bioinformatics and data analysis.
 - [Statistics](#statistics)
 - [Tabular data](#tabular-data)
 - [Utilities](#utilities)
-- [VCF files](#vcf-files)
 - [Variant identification and analysis](#variant-identification-and-analysis)
+- [VCF files](#vcf-files)
 - [Vim](#vim)
 - [Workflow development and workflows](#workflow-development-and-workflows)
 
