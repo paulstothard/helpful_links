@@ -114,9 +114,11 @@ Links to resources related to bioinformatics and data analysis.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - A configurable diagramming application.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
 
-## Document conversion
+## Document conversion and manipulation
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
+- [paulstothard/document-builder](https://github.com/paulstothard/document-builder) - Produces nicely formatted PDF and HTML documents from Markdown source files.
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
 
 ## Documentation creation and publishing
 
@@ -371,6 +373,7 @@ Links to resources related to bioinformatics and data analysis.
 - [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
 - [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
 - [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
+- [telatin/seqfu2](https://github.com/telatin/seqfu2) - A general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
 - [tseemann/any2fasta](https://github.com/tseemann/any2fasta) - Convert various sequence formats to FASTA.
 
 ## Software development
