@@ -40,7 +40,7 @@ Links to resources related to bioinformatics and data analysis.
 - [Sequence read alignment](#sequence-read-alignment)
 - [Sequence searching and clustering](#sequence-searching-and-clustering)
 - [Sequence utilities](#sequence-utilities)
-- [Source code editors and IDEs](#source-code-editors-and-ides)
+- [Software development](#software-development)
 - [Statistics](#statistics)
 - [Tabular data](#tabular-data)
 - [Utilities](#utilities)
