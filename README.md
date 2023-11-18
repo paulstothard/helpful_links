@@ -101,6 +101,7 @@ Links to resources related to bioinformatics and data analysis.
 - [R CHARTS](https://r-charts.com) - Code examples of R graphs made with base R graphics, ggplot2 and other packages.
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [seaborn](https://seaborn.pydata.org) - A Python data visualization library that provides a high-level interface for drawing attractive and informative statistical graphics.
+- [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.
 - [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - Provides geoms for ggplot2 to repel overlapping text labels.
 - [smin95/smplot2](https://github.com/smin95/smplot2) - An R package for statistical data visualization that complements ggplot2.
 - [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
@@ -372,8 +373,9 @@ Links to resources related to bioinformatics and data analysis.
 - [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
 - [tseemann/any2fasta](https://github.com/tseemann/any2fasta) - Convert various sequence formats to FASTA.
 
-## Source code editors and IDEs
+## Software development
 
+- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [JupyterLab](https://jupyter.org) - A web-based interactive development environment for notebooks, code, and data.
 - [RStudio Desktop](https://posit.co/download/rstudio-desktop/) - An integrated development environment for R, a programming language for statistical computing and graphics.
 - [Visual Studio Code](https://code.visualstudio.com) - A source-code editor for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
