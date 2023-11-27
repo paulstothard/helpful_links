@@ -77,6 +77,12 @@ Links to resources related to bioinformatics and data analysis.
 - [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
 - [Quay](https://quay.io) - Find and share container images.
 
+## Courses and training
+
+- [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/current-workshops/) - The Canadian Bioinformatics Workshops (CBW) offered through bioinformatics.ca focuses on training in leading technologies and the latest methods being used in computational biology to work with these data.
+- [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Learning resources, research papers, tools, and other resources across different fields of biology.
+- [sib-swiss/training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials.
+
 ## Data sharing and management
 
 - [datalad/datalad](https://github.com/datalad/datalad) - Keep code, data, containers under control with git and git-annex.
@@ -204,6 +210,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Genome visualization
 
+- [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 - [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
 - [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
@@ -235,24 +242,10 @@ Links to resources related to bioinformatics and data analysis.
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
-## Link collections
-
-- [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
-- [cmdcolin/oddgenes](https://github.com/cmdcolin/oddgenes) - A small database of weird gene annotations.
-- [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources) - Unix, R, and Python tools for genomics and data science.
-- [danielecook/Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) - Awesome bioinformatics libraries and software.
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
-- [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks) - Bioinformatics bench-marking papers and resources.
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software.
-- [kmhernan/awesome-bioinformatics-formats](https://github.com/kmhernan/awesome-bioinformatics-formats) - Bioinformatics formats and publications.
-- [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Learning resources, research papers, tools, and other resources across different fields of biology.
-- [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - Software packages and data resources for for single-cell data analysis.
-- [sib-swiss/training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
-
 ## Machine learning
 
 - [DeepLabCut/DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Markerless pose estimation of user-defined features with deep learning for all animals.
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome machine learning frameworks, libraries and software.
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - A JavaScript implementation of neural networks.
 - [keras-team/keras](https://github.com/keras-team/keras) - A deep learning API written in Python, running on top of the machine learning platform TensorFlow.
 - [marrlab/InstantDL](https://github.com/marrlab/InstantDL) - An easy and convenient deep learning pipeline for image segmentation and classification.
@@ -322,10 +315,13 @@ Links to resources related to bioinformatics and data analysis.
 ## Programming
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
+- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - A comprehensive Python cheat sheet.
+- [IPGP/scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - A quick reference for scientific computing with Python.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices template for bash scripts.
 - [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way.
 
 ## Raw sequence data processing and QC
@@ -423,6 +419,7 @@ Links to resources related to bioinformatics and data analysis.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
