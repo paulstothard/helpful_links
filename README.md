@@ -153,6 +153,7 @@ Links to resources related to bioinformatics and data analysis.
 - [lastz/lastz](https://github.com/lastz/lastz) - A program for aligning DNA sequences, a pairwise aligner.
 - [mauve](https://darlinglab.org/mauve/mauve.html) - A system for efficiently constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion.
 - [metagenlab/mummer2circos](https://github.com/metagenlab/mummer2circos) - Circular bacterial genome plots based on BLAST or NUCMER/PROMER alignments.
+- [moshi4/ANIclustermap](https://github.com/moshi4/ANIclustermap) - A tool for clustering genomes based on ANI values.
 - [mummer4/mummer](https://github.com/mummer4/mummer) - A versatile and fast alignment tool for DNA and protein sequences that can align mammalian genomes in a few hours.
 - [ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI) - Fast alignment-free computation of whole-genome average nucleotide identity (ANI).
 - [paulstothard/cgview_comparison_tool](https://github.com/paulstothard/cgview_comparison_tool) - A package for visually comparing bacterial, plasmid, chloroplast, and mitochondrial sequences.
@@ -213,6 +214,7 @@ Links to resources related to bioinformatics and data analysis.
 - [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 - [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
 - [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
+- [moshi4/pyGenomeViz](https://github.com/moshi4/pyGenomeViz) - A genome visualization Python package for comparative genomics.
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 - [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
 
