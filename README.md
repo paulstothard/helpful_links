@@ -123,6 +123,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Document conversion and manipulation
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
+- [pansapiens/standalone_html.py](https://gist.github.com/pansapiens/110431456e8a4ba4f2eb) - Convert HTML to a self contained file with inline Base64 encoded PNG images.
 - [paulstothard/document-builder](https://github.com/paulstothard/document-builder) - Produces nicely formatted PDF and HTML documents from Markdown source files.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
 
@@ -135,6 +136,7 @@ Links to resources related to bioinformatics and data analysis.
 - [honkit/honkit](https://github.com/honkit/honkit) - A command-line tool and Node.js library based on GitBook for building  online documentation or ebooks using Markdown files.
 - [Jekyll](https://jekyllrb.com/) - A static site generator for creating websites or blogs using plain text files and Markdown syntax with customizable templates.
 - [JupyterBook](https://jupyterbook.org/) - An open-source tool for building interactive, publication-quality books and documentation using Jupyter Notebooks and Markdown, incorporating code, visualizations, and interactive elements.
+- [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples and articles.
 - [MdBook](https://rust-lang.github.io/mdBook/) - A command-line utility that generates books or documentation websites from Markdown files, focusing on simplicity with table of contents, navigation, and search functionality.
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
 - [MkDocs](https://www.mkdocs.org/) - A Python-based static site generator for creating documentation websites using Markdown and YAML configuration, offering themes and plugins.
