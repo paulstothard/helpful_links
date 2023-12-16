@@ -441,6 +441,7 @@ Links to resources related to bioinformatics and data analysis.
 - [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
 - [marbl/gingr](https://github.com/marbl/gingr) - A flexible platform for visualizing and compressing alignments and phylogenetic trees.
 - [marbl/parsnp](https://github.com/marbl/parsnp) - A command-line tool for efficient microbial core genome alignment and SNP detection.
+- [mkirsche/Jasmine](https://github.com/mkirsche/Jasmine) - A pipeline for accurately detecting SVs and comparing variant calls across large numbers of individuals.
 - [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
 - [PacificBiosciences/pbsv](https://github.com/PacificBiosciences/pbsv) - PacBio structural variant calling and analysis tools.
 - [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
