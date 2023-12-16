@@ -178,6 +178,7 @@ Links to resources related to bioinformatics and data analysis.
 - [oschwengers/bakta](https://github.com/oschwengers/bakta) - A tool for the rapid and standardized annotation of bacterial genomes and plasmids from isolates and MAGs.
 - [replikation/What_the_Phage](https://github.com/replikation/What_the_Phage) - A scalable and easy-to-use workflow for phage identification and analysis.
 - [sanger-pathogens/Roary](https://github.com/sanger-pathogens/Roary) - Rapid large-scale prokaryote pan genome analysis.
+- [soedinglab/metaeuk](https://github.com/soedinglab/metaeuk) - A modular toolkit designed for large-scale gene discovery and annotation in eukaryotic metagenomic contigs.
 - [tseemann/mlst](https://github.com/tseemann/mlst) - Scan contig files against traditional PubMLST typing schemes.
 - [tseemann/prokka](https://github.com/tseemann/prokka) - Rapid prokaryotic genome annotation.
 - [WrightonLabCSU/DRAM](https://github.com/WrightonLabCSU/DRAM) - Distilled and Refined Annotation of Metabolism: A tool for the annotation and curation of function for microbial and viral genomes.
@@ -191,6 +192,8 @@ Links to resources related to bioinformatics and data analysis.
 - [BUSCO](https://busco.ezlab.org) - Evaluate the completeness of a genome assembly and annotation by assessing the presence of a set of single-copy, conserved orthologous genes.
 - [Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM) - Assess the quality of genomes recovered from isolates, single cells, or metagenomes.
 - [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
+- [gbouras13/hybracter](https://github.com/gbouras13/hybracter) - An automated long-read first bacterial genome assembly tool implemented in Snakemake.
+- [gbouras13/plassembler](https://github.com/gbouras13/plassembler) - Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates.
 - [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 - [lbcb-sci/racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
 - [lbcb-sci/raven](https://github.com/lbcb-sci/raven) - A de novo genome assembler for long uncorrected reads.
