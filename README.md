@@ -341,6 +341,7 @@ Links to resources related to bioinformatics and data analysis.
 - [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 - [rrwick/Filtlong](https://github.com/rrwick/Filtlong) - Quality filtering tool for long reads.
 - [s-andrews/FastQC](https://github.com/s-andrews/FastQC) - A quality control application for high throughput sequence data.
+- [wdecoster/chopper](https://github.com/wdecoster/chopper) - Filter and trim long reads.
 - [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) - Plotting scripts for long read sequencing data.
 
 ## RNA-Seq
@@ -440,6 +441,7 @@ Links to resources related to bioinformatics and data analysis.
 - [ACEnglish/truvari](https://github.com/ACEnglish/truvari) - A toolkit for benchmarking, merging, and annotating structural variants.
 - [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
 - [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
+- [HKU-BAL/Clair3](https://github.com/HKU-BAL/Clair3) - A germline small variant caller for long-reads.
 - [fritzsedlazeck/Sniffles](https://github.com/fritzsedlazeck/Sniffles) - A fast structural variant caller for long-read sequence data.
 - [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
 - [marbl/gingr](https://github.com/marbl/gingr) - A flexible platform for visualizing and compressing alignments and phylogenetic trees.
