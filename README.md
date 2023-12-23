@@ -383,6 +383,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Software development
 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [heyman/heynote](https://github.com/heyman/heynote/) - A dedicated scratchpad for developers.
 - [JupyterLab](https://jupyter.org) - A web-based interactive development environment for notebooks, code, and data.
 - [RStudio Desktop](https://posit.co/download/rstudio-desktop/) - An integrated development environment for R, a programming language for statistical computing and graphics.
 - [Visual Studio Code](https://code.visualstudio.com) - A source-code editor for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
