@@ -136,6 +136,7 @@ Links to resources related to bioinformatics and data analysis.
 - [honkit/honkit](https://github.com/honkit/honkit) - A command-line tool and Node.js library based on GitBook for building  online documentation or ebooks using Markdown files.
 - [Jekyll](https://jekyllrb.com/) - A static site generator for creating websites or blogs using plain text files and Markdown syntax with customizable templates.
 - [JupyterBook](https://jupyterbook.org/) - An open-source tool for building interactive, publication-quality books and documentation using Jupyter Notebooks and Markdown, incorporating code, visualizations, and interactive elements.
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - Converts simple HTML pages into visually appealing PDF reports, invoices, and posters.
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples and articles.
 - [MdBook](https://rust-lang.github.io/mdBook/) - A command-line utility that generates books or documentation websites from Markdown files, focusing on simplicity with table of contents, navigation, and search functionality.
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
