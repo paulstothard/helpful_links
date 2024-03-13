@@ -114,6 +114,7 @@ Links to resources related to bioinformatics and data analysis.
 - [thackl/gggenomes](https://github.com/thackl/gggenomes) - A versatile graphics package for comparative genomics.
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic.
 - [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
+- [TabularJSON](https://tabularjson.com) - Start typing or drop a JSON/JSONL file, a great JSON visualisation tool.
 
 ## Diagrams and flowcharts
 
