@@ -381,11 +381,12 @@ Links to resources related to bioinformatics and data analysis.
 - [telatin/seqfu2](https://github.com/telatin/seqfu2) - A general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
 - [tseemann/any2fasta](https://github.com/tseemann/any2fasta) - Convert various sequence formats to FASTA.
 
-## Software development
+## Software development tools
 
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [heyman/heynote](https://github.com/heyman/heynote/) - A dedicated scratchpad for developers.
 - [JupyterLab](https://jupyter.org) - A web-based interactive development environment for notebooks, code, and data.
+- [nteract/papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze Jupyter Notebooks.
 - [RStudio Desktop](https://posit.co/download/rstudio-desktop/) - An integrated development environment for R, a programming language for statistical computing and graphics.
 - [Visual Studio Code](https://code.visualstudio.com) - A source-code editor for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
