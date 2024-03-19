@@ -234,6 +234,7 @@ Links to resources related to bioinformatics and data analysis.
 
 - [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
 - [chrchang/plink-ng](https://github.com/chrchang/plink-ng) - A comprehensive update to the PLINK association analysis toolset.
+- [jianyangqt/gcta](https://github.com/jianyangqt/gcta) - A software package for performing genome-wide association studies and many related analyses.
 - [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
 - [TASSEL](https://www.maizegenetics.net/tassel) - A software package for assessing diversity, linkage disequilibrium, relatedness, and genotype / phenotype associations.
 - [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
