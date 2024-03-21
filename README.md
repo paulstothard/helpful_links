@@ -481,6 +481,7 @@ Links to resources related to bioinformatics and data analysis.
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A bioinformatics workflow manager that enables the development of portable and reproducible workflows.
 - [nf-core/tools](https://github.com/nf-core/tools) - Tools for working with nf-core pipelines.
 - [nfcore](https://nf-co.re) - A community effort to collect a curated set of analysis pipelines built using Nextflow.
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - A command-line task queue for sequential and parallel execution of long-running tasks.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - A framework to build collaborative and modular pipelines.
 - [ropensci/targets](https://github.com/ropensci/targets) - A Make-like pipeline tool for statistics and data science in R.
 - [Snakemake workflow catalog](https://snakemake.github.io/snakemake-workflow-catalog) - A comprehensive catalog of standards compliant, public, Snakemake workflows.
