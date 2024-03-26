@@ -431,6 +431,7 @@ Links to resources related to bioinformatics and data analysis.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+- [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites to improve performance and user experience.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web extension for saving a faithful copy of a complete web page in a single HTML file.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
