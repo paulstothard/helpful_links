@@ -217,6 +217,7 @@ Links to resources related to bioinformatics and data analysis.
 
 ## Genome visualization
 
+- [bernatgel/karyoploteR](https://github.com/bernatgel/karyoploteR) - An R package to plot arbitrary data along the genome.
 - [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 - [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
 - [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
