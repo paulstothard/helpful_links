@@ -80,6 +80,7 @@ Links to resources related to bioinformatics and data analysis.
 ## Courses and training
 
 - [Canadian Bioinformatics Workshops](https://bioinformatics.ca/workshops/current-workshops/) - The Canadian Bioinformatics Workshops (CBW) offered through bioinformatics.ca focuses on training in leading technologies and the latest methods being used in computational biology to work with these data.
+- [matloff/fasteR](https://github.com/matloff/fasteR) - A thorough and thoughtful introduction to R for non-programmers.
 - [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Learning resources, research papers, tools, and other resources across different fields of biology.
 - [sib-swiss/training-collection](https://github.com/sib-swiss/training-collection) - Bioinformatics training materials.
 
