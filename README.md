@@ -8,46 +8,47 @@ Links to resources related to bioinformatics and data analysis.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [ATAC-seq](#atac-seq)
-- [Audiovisual](#audiovisual)
-- [BAM and SAM](#bam-and-sam)
-- [ChIP-seq](#chip-seq)
-- [Containers](#containers)
-- [Courses and training](#courses-and-training)
-- [Data sharing and management](#data-sharing-and-management)
-- [Data visualization](#data-visualization)
-- [Diagrams and flowcharts](#diagrams-and-flowcharts)
-- [Document conversion and manipulation](#document-conversion-and-manipulation)
-- [Documentation creation and publishing](#documentation-creation-and-publishing)
-- [EMBL-EBI](#embl-ebi)
-- [Genome alignment and comparison](#genome-alignment-and-comparison)
-- [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
-- [Genome assembly](#genome-assembly)
-- [Genome visualization](#genome-visualization)
-- [GTF and GFF](#gtf-and-gff)
-- [GWAS](#gwas)
-- [Images](#images)
-- [Machine learning](#machine-learning)
-- [Metagenomics](#metagenomics)
-- [Methyl-seq](#methyl-seq)
-- [Multiomics](#multiomics)
-- [NCBI](#ncbi)
-- [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
-- [Population genetics and conservation](#population-genetics-and-conservation)
-- [Programming](#programming)
-- [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
-- [RNA-Seq](#rna-seq)
-- [Sequence read alignment](#sequence-read-alignment)
-- [Sequence searching and clustering](#sequence-searching-and-clustering)
-- [Sequence utilities](#sequence-utilities)
-- [Software development tools](#software-development-tools)
-- [Statistics](#statistics)
-- [Tabular data](#tabular-data)
-- [Utilities](#utilities)
-- [Variant identification and analysis](#variant-identification-and-analysis)
-- [VCF files](#vcf-files)
-- [Vim](#vim)
-- [Workflow development and workflows](#workflow-development-and-workflows)
+- [helpful\_links](#helpful_links)
+  - [ATAC-seq](#atac-seq)
+  - [Audiovisual](#audiovisual)
+  - [BAM and SAM](#bam-and-sam)
+  - [ChIP-seq](#chip-seq)
+  - [Containers](#containers)
+  - [Courses and training](#courses-and-training)
+  - [Data sharing and management](#data-sharing-and-management)
+  - [Data visualization](#data-visualization)
+  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Document conversion and manipulation](#document-conversion-and-manipulation)
+  - [Documentation creation and publishing](#documentation-creation-and-publishing)
+  - [EMBL-EBI](#embl-ebi)
+  - [Genome alignment and comparison](#genome-alignment-and-comparison)
+  - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
+  - [Genome assembly](#genome-assembly)
+  - [Genome visualization](#genome-visualization)
+  - [GTF and GFF](#gtf-and-gff)
+  - [GWAS](#gwas)
+  - [Images](#images)
+  - [Machine learning](#machine-learning)
+  - [Metagenomics](#metagenomics)
+  - [Methyl-seq](#methyl-seq)
+  - [Multiomics](#multiomics)
+  - [NCBI](#ncbi)
+  - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
+  - [Population genetics and conservation](#population-genetics-and-conservation)
+  - [Programming](#programming)
+  - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
+  - [RNA-Seq](#rna-seq)
+  - [Sequence read alignment](#sequence-read-alignment)
+  - [Sequence searching and clustering](#sequence-searching-and-clustering)
+  - [Sequence utilities](#sequence-utilities)
+  - [Software development tools](#software-development-tools)
+  - [Statistics](#statistics)
+  - [Tabular data](#tabular-data)
+  - [Utilities](#utilities)
+  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [VCF files](#vcf-files)
+  - [Vim](#vim)
+  - [Workflow development and workflows](#workflow-development-and-workflows)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -174,6 +175,7 @@ Links to resources related to bioinformatics and data analysis.
 - [gtonkinhill/panaroo](https://github.com/gtonkinhill/panaroo) - Producing polished prokaryotic pangenomes.
 - [jime-sg/deleat](https://github.com/jime-sg/deleat) - Gene essentiality prediction and deletion design for bacterial genome reduction.
 - [jotech/gapseq](https://github.com/jotech/gapseq) - Informed prediction and analysis of bacterial metabolic pathways and genome-scale networks.
+- [marcelauliano/MitoHiFi](https://github.com/marcelauliano/MitoHiFi) - Assembles mitogenomes from Pacbio HiFi reads.
 - [ncbi/amr](https://github.com/ncbi/amr) - Identifies AMR genes, resistance-associated point mutations, and select other classes of genes using protein annotations and/or assembled nucleotide sequence.
 - [ncbi/pgap](https://github.com/ncbi/pgap) - Annotate bacterial and archaeal genomes (chromosomes and plasmids).
 - [nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate) - Eukaryotic genome annotation pipeline.
@@ -345,6 +347,7 @@ Links to resources related to bioinformatics and data analysis.
 - [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
 - [rrwick/Filtlong](https://github.com/rrwick/Filtlong) - Quality filtering tool for long reads.
 - [s-andrews/FastQC](https://github.com/s-andrews/FastQC) - A quality control application for high throughput sequence data.
+- [sheinasim/HiFiAdapterFilt](https://github.com/sheinasim/HiFiAdapterFilt) - Remove adapter-contaminated PacBio HiFi reads.
 - [wdecoster/chopper](https://github.com/wdecoster/chopper) - Filter and trim long reads.
 - [wdecoster/NanoPlot](https://github.com/wdecoster/NanoPlot) - Plotting scripts for long read sequencing data.
 
