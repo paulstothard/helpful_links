@@ -4,8 +4,6 @@
 
 Links to resources related to bioinformatics and data analysis.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
 - [helpful\_links](#helpful_links)
@@ -49,8 +47,6 @@ Links to resources related to bioinformatics and data analysis.
   - [VCF files](#vcf-files)
   - [Vim](#vim)
   - [Workflow development and workflows](#workflow-development-and-workflows)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## ATAC-seq
 
