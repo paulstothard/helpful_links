@@ -442,6 +442,7 @@ Table of Contents
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML files.
+- [storizzi/notes-exporter](https://github.com/storizzi/notes-exporter) - Export Apple Notes in Markdown, HTML, or PDF format.
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - Command-line tool to save web pages as a single HTML file.
 
