@@ -149,6 +149,7 @@ Table of Contents
 
 ## Genome alignment and comparison
 
+- [bluenote-1577/skani](bluenote-1577/skani) - Fast, robust ANI and aligned fraction for genomes and contigs.
 - [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 - [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [lastz/lastz](https://github.com/lastz/lastz) - A program for aligning DNA sequences, a pairwise aligner.
