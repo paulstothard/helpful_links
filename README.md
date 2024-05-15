@@ -15,7 +15,7 @@ Table of Contents
   - [Courses and training](#courses-and-training)
   - [Data sharing and management](#data-sharing-and-management)
   - [Data visualization](#data-visualization)
-  - [Diagrams and flowcharts](#diagrams-and-flowcharts)
+  - [Diagrams, flowcharts and maps](#diagrams-flowcharts-and-maps)
   - [Document conversion and manipulation](#document-conversion-and-manipulation)
   - [Documentation creation and publishing](#documentation-creation-and-publishing)
   - [EMBL-EBI](#embl-ebi)
@@ -113,10 +113,12 @@ Table of Contents
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic.
 - [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
 
-## Diagrams and flowcharts
+## Diagrams, flowcharts and maps
 
 - [jgraph/drawio](https://github.com/jgraph/drawio) - A configurable diagramming application.
+- [k4m454k/MapPosterCreator](https://github.com/k4m454k/MapPosterCreator) - Create beautiful maps using OpenStreetMap data.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
+- [MyOSMatic](https://print.get-map.org) - A free software web service that allows you to generate maps of cities using OpenStreetMap data.
 
 ## Document conversion and manipulation
 
