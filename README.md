@@ -126,6 +126,7 @@ Table of Contents
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
 - [pansapiens/standalone_html.py](https://gist.github.com/pansapiens/110431456e8a4ba4f2eb) - Convert HTML to a self contained file with inline Base64 encoded PNG images.
 - [paulstothard/document-builder](https://github.com/paulstothard/document-builder) - Produces nicely formatted PDF and HTML documents from Markdown source files.
+- [PDFgear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
 
 ## Documentation creation and publishing
@@ -143,6 +144,7 @@ Table of Contents
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
 - [MkDocs](https://www.mkdocs.org/) - A Python-based static site generator for creating documentation websites using Markdown and YAML configuration, offering themes and plugins.
 - [Nextra](https://nextra.site/) - A minimalist and customizable Next.js theme for building documentation websites with Markdown and code syntax highlighting.
+- [paulstothard/fast-pptx](https://github.com/paulstothard/fast-pptx) - Generate Markdown and PowerPoint slides from a folder of images, code snippets, and other files.
 - [Quarto](https://quarto.org/) - A scientific computing environment integrating Markdown, code, and output into a single format, enabling reproducible reports, books, or websites with multiple language support and rich media content.
 - [secretGeek/clowncar](https://github.com/secretGeek/clowncar) - A lightweight static site generator converting Markdown files into HTML pages without complex configurations or dependencies.
 
@@ -253,6 +255,7 @@ Table of Contents
 - [ImageMagick](https://imagemagick.org) - A free and open-source software suite for displaying, converting, and editing raster image and vector image files.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations.
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
+- [Shottr](https://shottr.cc) - A fast and feature-rich screenshot tool for macOS.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 
 ## Machine learning
@@ -435,12 +438,15 @@ Table of Contents
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - A program for identifying or deleting duplicate files residing within specified directories.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
+- [ClipGrab](https://clipgrab.org) - A free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites to improve performance and user experience.
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web extension for saving a faithful copy of a complete web page in a single HTML file.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
+- [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility for macOS that prevents your Mac from going to sleep.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
 - [rclone/rclone](https://github.com/rclone/rclone) - A command-line program to sync files and directories to and from different cloud storage providers.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
