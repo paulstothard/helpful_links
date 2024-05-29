@@ -253,6 +253,7 @@ Table of Contents
 - [GIMP](https://www.gimp.org) - A free and open-source raster graphics editor.
 - [ImageJ](https://imagej.net/ij/index.html) - A Java-based image processing program developed at the National Institutes of Health.
 - [ImageMagick](https://imagemagick.org) - A free and open-source software suite for displaying, converting, and editing raster image and vector image files.
+- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - Produce high-quality GIFs from video frames.
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations.
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
 - [Shottr](https://shottr.cc) - A fast and feature-rich screenshot tool for macOS.
