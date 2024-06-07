@@ -104,6 +104,7 @@ Table of Contents
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - An interactive, open-source, and browser-based graphing library for Python.
 - [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive, open-source, and browser-based graphing library for R.
 - [R CHARTS](https://r-charts.com) - Code examples of R graphs made with base R graphics, ggplot2 and other packages.
+- [reneshbedre/bioinfokit](https://github.com/reneshbedre/bioinfokit) - Bioinformatics data analysis and visualization toolkit.
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [seaborn](https://seaborn.pydata.org) - A Python data visualization library that provides a high-level interface for drawing attractive and informative statistical graphics.
 - [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.
