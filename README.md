@@ -64,6 +64,7 @@ Table of Contents
 - [pysam-developers/pysam](https://github.com/pysam-developers/pysam) - A Python module for reading and manipulating SAM/BAM/VCF/BCF files.
 - [samtools/samtools](https://github.com/samtools/samtools) - Tools for manipulating next-generation sequencing data.
 - [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
+- [sstadick/perbase)](https://github.com/sstadick/perbase) - Calculate per-base statistics from BAM/CRAM files.
 
 ## ChIP-seq
 
@@ -243,6 +244,7 @@ Table of Contents
 - [chrchang/plink-ng](https://github.com/chrchang/plink-ng) - A comprehensive update to the PLINK association analysis toolset.
 - [jianyangqt/gcta](https://github.com/jianyangqt/gcta) - A software package for performing genome-wide association studies and many related analyses.
 - [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
+- [qtltools/qtltools](https://github.com/qtltools/qtltools) - A tool collection for the discovery of molecular QTLs (e.g. eQTLs) from raw sequence data.
 - [TASSEL](https://www.maizegenetics.net/tassel) - A software package for assessing diversity, linkage disequilibrium, relatedness, and genotype / phenotype associations.
 - [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
 
@@ -481,6 +483,8 @@ Table of Contents
 
 - [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
 - [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+- [dnanexus-rnd/GLnexus](https://github.com/dnanexus-rnd/GLnexus) - Scalable gVCF merging and joint variant calling for population sequencing projects.
+- [Illumina/hap.py](https://github.com/Illumina/hap.py) - A tool for benchmarking variant calls against a gold standard truth set.
 - [knausb/vcfR](https://github.com/knausb/vcfR) - A package to manipulate and visualize VCF data in R.
 - [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
 - [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
