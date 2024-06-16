@@ -23,7 +23,6 @@ Table of Contents
   - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
   - [Genome assembly](#genome-assembly)
   - [Genome visualization](#genome-visualization)
-  - [GTF and GFF](#gtf-and-gff)
   - [GWAS](#gwas)
   - [Images](#images)
   - [Machine learning](#machine-learning)
@@ -36,12 +35,13 @@ Table of Contents
   - [Programming](#programming)
   - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
   - [RNA-Seq](#rna-seq)
+  - [Sequence feature utilities](#sequence-feature-utilities)
   - [Sequence read alignment](#sequence-read-alignment)
   - [Sequence searching and clustering](#sequence-searching-and-clustering)
   - [Sequence utilities](#sequence-utilities)
   - [Software development tools](#software-development-tools)
   - [Statistics](#statistics)
-  - [Tabular data](#tabular-data)
+  - [Tabular data and exploratory data analysis](#tabular-data-and-exploratory-data-analysis)
   - [Utilities](#utilities)
   - [Variant identification and analysis](#variant-identification-and-analysis)
   - [VCF files](#vcf-files)
@@ -232,12 +232,6 @@ Table of Contents
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 - [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
 
-## GTF and GFF
-
-- [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
-- [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
-- [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - A suite of tools to handle gene annotations in any GTF/GFF format.
-
 ## GWAS
 
 - [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
@@ -368,6 +362,16 @@ Table of Contents
 - [stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
 - [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 
+## Sequence feature utilities
+
+- [agshumate/Liftoff](https://github.com/agshumate/Liftoff) - A tool that accurately maps annotations in GFF or GTF between assemblies of the same, or closely-related species.
+- [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
+- [bedops/bedops](https://github.com/bedops/bedops) - High-performance genomic feature operations.
+- [EMBOSS](https://emboss.sourceforge.net) - A free open source software analysis package developed for the needs of the molecular biology and bioinformatics user community.
+- [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
+- [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - A suite of tools to handle gene annotations in any GTF/GFF format.
+- [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
+
 ## Sequence read alignment
 
 - [lh3/bwa](https://github.com/lh3/bwa) - Burrows-Wheeler aligner for short-read alignment.
@@ -382,14 +386,12 @@ Table of Contents
 
 ## Sequence utilities
 
-- [EMBOSS](https://emboss.sourceforge.net) - A free open source software analysis package developed for the needs of the molecular biology and bioinformatics user community.
 - [ialbert/bio](https://github.com/ialbert/bio) - A collection of command-line utilities for working with sequence records.
 - [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - Download files from NCBI Entrez by accession.
 - [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 - [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 - [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
 - [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
-- [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
 - [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
 - [telatin/seqfu2](https://github.com/telatin/seqfu2) - A general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
 - [tseemann/any2fasta](https://github.com/tseemann/any2fasta) - Convert various sequence formats to FASTA.
@@ -413,30 +415,34 @@ Table of Contents
 - [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and visualize the results of multivariate data analyses.
 - [paul-buerkner/brms/](https://github.com/paul-buerkner/brms/) - An interface to fit Bayesian generalized (non-)linear multivariate multilevel models using Stan.
 - [paulvanderlaken/ppsr](https://github.com/paulvanderlaken/ppsr) - R implementation of Predictive Power Score.
+- [scipy/scipy](https://github.com/scipy/scipy) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) - Semi-automated enrichment analysis for Gene Ontology (GO) terms.
+- [vega/altair](https://github.com/vega/altair) - Simple and consistent API for statistical visualizations in Python.
 
-## Tabular data
+## Tabular data and exploratory data analysis
 
 - [apache/arrow](https://github.com/apache/arrow) - A multi-language toolbox for accelerated data interchange and in-memory processing.
-- [arq5x/bedtools2](https://github.com/arq5x/bedtools2) - Intersect, merge, count, complement, and shuffle genomic intervals from multiple files in widely-used genomic file formats such as BAM, BED, GFF/GTF, VCF.
-- [bedops/bedops](https://github.com/bedops/bedops) - High-performance genomic feature operations.
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - A column-oriented database management system that allows generating analytical data reports in real-time.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - A high-performance analytical database system that provides a rich SQL dialect.
 - [harelba/q](https://github.com/harelba/q) - Run SQL directly on delimited files and multi-file sqlite databases.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON.
 - [jqnatividad/qsv](https://github.com/jqnatividad/qsv) - A fork of the popular xsv command-line toolkit for working with CSV files that adds numerous useful features.
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - Turn a pandas dataframe into a Tableau-style interface for visual analysis.
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - Turn a Pandas DataFrame into a Tableau-style interface for visual analysis.
+- [lux-org/lux](https://github.com/lux-org/lux) - Recommends a set of visualizations highlighting interesting trends and patterns in Pandas DataFrames.
+- [man-group/dtale](https://github.com/man-group/dtale) - Visualizer for Pandas DataFrames.
 - [markfairbanks/tidytable](https://github.com/markfairbanks/tidytable) - tidytable is a data frame manipulation library for users who need data.table speed but prefer tidyverse-like syntax.
 - [OpenRefine](https://openrefine.org) - OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis and manipulation library for Python.
+- [pola-rs/polars](https://github.com/pola-rs/polars/) - Fast DataFrame library written in Rust and available for Python, R, and NodeJS.
 - [pstaender/csv2md](https://github.com/pstaender/csv2md) - Converts CSV data to Markdown tables.
 - [ropensci/skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data.
 - [shenwei356/csvtk](https://github.com/shenwei356/csvtk) - A cross-platform, efficient and practical CSV/TSV toolkit in Golang.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [wireservice/csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - One-line exploratory data analysis for Pandas and Spark DataFrames.
 
 ## Utilities
 
