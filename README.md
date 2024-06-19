@@ -74,6 +74,7 @@ Table of Contents
 
 - [BioContainers](https://biocontainers.pro) - A registry of bioinformatics software containers.
 - [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers and Linux machines for macOS.
 - [Quay](https://quay.io) - Find and share container images.
 
 ## Courses and training
