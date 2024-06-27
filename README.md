@@ -41,6 +41,7 @@ Table of Contents
   - [Sequence utilities](#sequence-utilities)
   - [Software development tools](#software-development-tools)
   - [Statistics](#statistics)
+  - [Synthetic data](#synthetic-data)
   - [Tabular data and exploratory data analysis](#tabular-data-and-exploratory-data-analysis)
   - [Utilities](#utilities)
   - [Variant identification and analysis](#variant-identification-and-analysis)
@@ -420,6 +421,12 @@ Table of Contents
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) - Semi-automated enrichment analysis for Gene Ontology (GO) terms.
 - [vega/altair](https://github.com/vega/altair) - Simple and consistent API for statistical visualizations in Python.
+
+## Synthetic data
+
+- [DeclareDesign/fabricatr](https://github.com/DeclareDesign/fabricatr) - Quickly create variables that mimic those you plan to collect during the course of observational or experimental work.
+- [joke2k/faker](https://github.com/joke2k/faker) - Create synthetic data to test software.
+- [kgoldfeld/simstudy](https://github.com/kgoldfeld/simstudy) - A collection of functions for generating simulated data sets.
 
 ## Tabular data and exploratory data analysis
 
