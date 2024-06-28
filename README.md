@@ -498,6 +498,7 @@ Table of Contents
 - [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
 - [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
 - [dnanexus-rnd/GLnexus](https://github.com/dnanexus-rnd/GLnexus) - Scalable gVCF merging and joint variant calling for population sequencing projects.
+- [freeseek/score](https://github.com/freeseek/score) - Includes BCFtools/liftover, a tool to convert genomic coordinates of variants in VCF format across different genome assemblies.
 - [Illumina/hap.py](https://github.com/Illumina/hap.py) - A tool for benchmarking variant calls against a gold standard truth set.
 - [knausb/vcfR](https://github.com/knausb/vcfR) - A package to manipulate and visualize VCF data in R.
 - [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
