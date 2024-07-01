@@ -456,6 +456,7 @@ Table of Contents
 
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - A program for identifying or deleting duplicate files residing within specified directories.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - A small macOS application that allows you to thoroughly uninstall unwanted apps.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
 - [ClipGrab](https://clipgrab.org) - A free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
