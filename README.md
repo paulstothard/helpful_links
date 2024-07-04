@@ -116,6 +116,7 @@ Table of Contents
 - [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
 - [thackl/gggenomes](https://github.com/thackl/gggenomes) - A versatile graphics package for comparative genomics.
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic.
+- [vega/altair](https://github.com/vega/altair) - A simple and consistent API for data visualizations in Python.
 - [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
 
 ## Diagrams, flowcharts and maps
@@ -420,7 +421,6 @@ Table of Contents
 - [scipy/scipy](https://github.com/scipy/scipy) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html) - Semi-automated enrichment analysis for Gene Ontology (GO) terms.
-- [vega/altair](https://github.com/vega/altair) - Simple and consistent API for statistical visualizations in Python.
 
 ## Synthetic data
 
