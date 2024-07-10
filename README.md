@@ -348,7 +348,7 @@ Table of Contents
 - [huishenlab/biscuit](https://github.com/huishenlab/biscuit) - Perform alignment, DNA methylation and mutation calling, and allele specific methylation from bisulfite sequencing data.
 - [kishwarshafin/pepper](https://github.com/kishwarshafin/pepper) - A genome inference module based on recurrent neural networks that enables long-read variant calling and nanopore assembly polishing in the PEPPER-Margin-DeepVariant pipeline.
 - [lh3/seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats.
-- [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging).
+- [OpenGene/fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC, adapters, trimming filtering, splitting, merging).
 - [rrwick/Filtlong](https://github.com/rrwick/Filtlong) - Quality filtering tool for long reads.
 - [s-andrews/FastQC](https://github.com/s-andrews/FastQC) - A quality control application for high throughput sequence data.
 - [sheinasim/HiFiAdapterFilt](https://github.com/sheinasim/HiFiAdapterFilt) - Remove adapter-contaminated PacBio HiFi reads.
