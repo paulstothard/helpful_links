@@ -361,7 +361,7 @@ Table of Contents
 - [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.
 - [pachterlab/kallisto](https://github.com/pachterlab/kallisto) - Near-optimal RNA-Seq quantification.
 - [STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion) - Uses the STAR aligner to identify candidate fusion transcripts supported by Illumina reads.
-- [stemangiola/bioc_2020_tidytranscriptomics](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
+- [stemangiola/bioc_2020](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
 - [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 
 ## Sequence feature utilities
