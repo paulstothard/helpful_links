@@ -168,7 +168,7 @@ Table of Contents
 - [moshi4/ANIclustermap](https://github.com/moshi4/ANIclustermap) - A tool for clustering genomes based on ANI values.
 - [mummer4/mummer](https://github.com/mummer4/mummer) - A versatile and fast alignment tool for DNA and protein sequences that can align mammalian genomes in a few hours.
 - [ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI) - Fast alignment-free computation of whole-genome average nucleotide identity (ANI).
-- [paulstothard/cgview_comparison_tool](https://github.com/paulstothard/cgview_comparison_tool) - A package for visually comparing bacterial, plasmid, chloroplast, and mitochondrial sequences.
+- [paulstothard/cct](https://github.com/paulstothard/cgview_comparison_tool) - A package for visually comparing bacterial, plasmid, chloroplast, and mitochondrial sequences.
 - [schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr) - Plot synteny and structural rearrangements between genomes.
 - [schneebergerlab/syri](https://github.com/schneebergerlab/syri) - Predict and visualize genomic differences between related genomes using whole-genome assemblies.
 
@@ -333,7 +333,6 @@ Table of Contents
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - A comprehensive Python cheat sheet.
-- [IPGP/scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet) - A quick reference for scientific computing with Python.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices template for bash scripts.
 - [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
@@ -373,7 +372,7 @@ Table of Contents
 - [EMBOSS](https://emboss.sourceforge.net) - A free open source software analysis package developed for the needs of the molecular biology and bioinformatics user community.
 - [gpertea/gffread](https://github.com/gpertea/gffread) - GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more.
 - [NBISweden/AGAT](https://github.com/NBISweden/AGAT) - A suite of tools to handle gene annotations in any GTF/GFF format.
-- [paulstothard/sequence_manipulation_suite](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
+- [paulstothard/sms2](https://github.com/paulstothard/sequence_manipulation_suite) - A collection of simple JavaScript programs for generating, formatting, and analyzing short DNA and protein sequences.
 
 ## Sequence read alignment
 
