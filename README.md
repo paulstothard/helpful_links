@@ -333,6 +333,7 @@ Table of Contents
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - A comprehensive Python cheat sheet.
+- [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - A collection of boilerplate templates for writing better Bash scripts.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices template for bash scripts.
 - [The Modern JavaScript Tutorial](https://javascript.info) - From the basics to advanced topics with simple, but detailed explanations.
