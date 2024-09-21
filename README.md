@@ -459,11 +459,13 @@ Table of Contents
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small macOS application that allows you to thoroughly uninstall unwanted apps.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
+- [casey/just](https://github.com/casey/just) - A handy way to save and run project-specific commands.
 - [ClipGrab](https://clipgrab.org) - A free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites to improve performance and user experience.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web extension for saving a faithful copy of a complete web page in a single HTML file.
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
