@@ -364,6 +364,7 @@ Table of Contents
 - [STAR-Fusion/STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion) - Uses the STAR aligner to identify candidate fusion transcripts supported by Illumina reads.
 - [stemangiola/bioc_2020](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
 - [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
+- [YosefLab/ImpulseDE2](https://github.com/YosefLab/ImpulseDE2) -  A differential expression algorithm for longitudinal count data sets from RNA-Seq, ChIP-Seq, ATAC-Seq and DNase-Seq experiments.
 
 ## Sequence feature utilities
 
