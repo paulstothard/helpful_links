@@ -7,10 +7,10 @@ Links to resources related to bioinformatics and data analysis.
 Table of Contents
 
 - [helpful\_links](#helpful_links)
-  - [ATAC-seq](#atac-seq)
+  - [ATAC-Seq](#atac-seq)
   - [Audiovisual](#audiovisual)
   - [BAM and SAM](#bam-and-sam)
-  - [ChIP-seq](#chip-seq)
+  - [ChIP-Seq](#chip-seq)
   - [Containers](#containers)
   - [Courses and training](#courses-and-training)
   - [Data sharing and management](#data-sharing-and-management)
@@ -27,7 +27,7 @@ Table of Contents
   - [Images](#images)
   - [Machine learning](#machine-learning)
   - [Metagenomics](#metagenomics)
-  - [Methyl-seq](#methyl-seq)
+  - [Methyl-Seq](#methyl-seq)
   - [Multiomics](#multiomics)
   - [NCBI](#ncbi)
   - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
@@ -49,9 +49,9 @@ Table of Contents
   - [Vim](#vim)
   - [Workflow development and workflows](#workflow-development-and-workflows)
 
-## ATAC-seq
+## ATAC-Seq
 
-- [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-seq peak-calling, QC and differential analysis pipeline.
+- [nf-core/atacseq](https://github.com/nf-core/atacseq) - ATAC-Seq peak-calling, QC and differential analysis pipeline.
 
 ## Audiovisual
 
@@ -67,9 +67,9 @@ Table of Contents
 - [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
 - [sstadick/perbase)](https://github.com/sstadick/perbase) - Calculate per-base statistics from BAM/CRAM files.
 
-## ChIP-seq
+## ChIP-Seq
 
-- [nf-core/chipseq](https://github.com/nf-core/chipseq) - ChIP-seq peak-calling, QC and differential analysis pipeline.
+- [nf-core/chipseq](https://github.com/nf-core/chipseq) - ChIP-Seq peak-calling, QC and differential analysis pipeline.
 
 ## Containers
 
@@ -283,7 +283,7 @@ Table of Contents
 - [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 - [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
-## Methyl-seq
+## Methyl-Seq
 
 - [EpiDiverse](https://github.com/EpiDiverse) - A collection of Nextflow pipelines for epigenome analysis.
 - [kdkorthauer/dmrseq](https://github.com/kdkorthauer/dmrseq) - R package for inference of differentially methylated regions (DMRs) from bisulfite sequencing.
