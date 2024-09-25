@@ -204,6 +204,7 @@ Table of Contents
 - [fenderglass/Flye](https://github.com/fenderglass/Flye) - Fast and accurate de novo assembler for single molecule sequencing reads.
 - [gbouras13/hybracter](https://github.com/gbouras13/hybracter) - An automated long-read first bacterial genome assembly tool implemented in Snakemake.
 - [gbouras13/plassembler](https://github.com/gbouras13/plassembler) - Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates.
+- [Guide to Bacterial Genome Assembly](https://rrwick.github.io/2020/10/30/guide-to-bacterial-genome-assembly.html) - Strategies for obtaining high-quality genome assemblies for bacterial isolate genomes.
 - [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 - [lbcb-sci/racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
 - [lbcb-sci/raven](https://github.com/lbcb-sci/raven) - A de novo genome assembler for long uncorrected reads.
