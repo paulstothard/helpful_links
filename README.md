@@ -366,6 +366,7 @@ Table of Contents
 - [stemangiola/bioc_2020](https://github.com/stemangiola/bioc_2020_tidytranscriptomics) - A tidy transcriptomics introduction to RNA sequencing analyses.
 - [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 - [YosefLab/ImpulseDE2](https://github.com/YosefLab/ImpulseDE2) -  A differential expression algorithm for longitudinal count data sets from RNA-Seq, ChIP-Seq, ATAC-Seq and DNase-Seq experiments.
+- [zhangyuqing/ComBat-seq](https://github.com/zhangyuqing/ComBat-seq) - A batch effect removal tool for RNA-seq data.
 
 ## Sequence feature utilities
 
@@ -471,6 +472,7 @@ Table of Contents
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - A powerful menu bar manager for macOS.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility for macOS that prevents your Mac from going to sleep.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
 - [rclone/rclone](https://github.com/rclone/rclone) - A command-line program to sync files and directories to and from different cloud storage providers.
