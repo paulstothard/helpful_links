@@ -299,6 +299,7 @@ Table of Contents
 ## NCBI
 
 - [All Resources](https://www.ncbi.nlm.nih.gov/guide/all/) - The National Center for Biotechnology Information (NCBI) advances science and health by providing access to biomedical and genomic information.
+- [Datasets](https://www.ncbi.nlm.nih.gov/datasets/) - A one-stop shop for finding, browsing, and downloading genomic data.
 - [NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook) - Examples illustrating the use of NCBI's Entrez Direct (EDirect), which provides access to the NCBI's suite of interconnected databases.
 - [shenwei356/taxonkit](https://github.com/shenwei356/taxonkit) - A practical and efficient NCBI Taxonomy toolkit.
 
