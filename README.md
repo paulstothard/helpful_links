@@ -271,6 +271,7 @@ Table of Contents
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine learning in Python.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - Packs a repository into a single, AI-friendly file that can be supplied to large-language models.
 
 ## Metagenomics
 
@@ -333,6 +334,7 @@ Table of Contents
 
 ## Programming
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - A comprehensive Python cheat sheet.
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - A collection of boilerplate templates for writing better Bash scripts.
