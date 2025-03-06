@@ -101,8 +101,9 @@ Table of Contents
 - [ewels/MultiQC](https://github.com/ewels/MultiQC) - Aggregate results from bioinformatics analyses across many samples into a single report.
 - [GenomeVIS USASK](https://genomevis.usask.ca) - A variety of browser-based visualization tools to support genomics research.
 - [hms-dbmi/UpSetR](https://github.com/hms-dbmi/UpSetR) - An R implementation of the UpSet set visualization technique.
-- [jbkunst/highcharter](https://github.com/jbkunst/highcharter/) - AN R wrapper for the Highcharts javascript library and its modules. Highcharts is very flexible and customizable javascript charting library and it has a great and powerful API.
+- [jbkunst/highcharter](https://github.com/jbkunst/highcharter/) - An R wrapper for the Highcharts javascript library and its modules.
 - [krassowski/complex-upset](https://github.com/krassowski/complex-upset) - A library for creating complex UpSet plots with ggplot2 geoms.
+- [moshi4/pyMSAviz](https://github.com/moshi4/pyMSAviz) - A multiple sequence alignment visualization python package.
 - [mw201608/SuperExactTest](https://github.com/mw201608/SuperExactTest) - Statistical testing and visualization of intersections among multiple sets.
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - An interactive, open-source, and browser-based graphing library for Python.
 - [plotly/plotly.R](https://github.com/plotly/plotly.R) - An interactive, open-source, and browser-based graphing library for R.
@@ -110,7 +111,7 @@ Table of Contents
 - [reneshbedre/bioinfokit](https://github.com/reneshbedre/bioinfokit) - Bioinformatics data analysis and visualization toolkit.
 - [rich-iannone/DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
 - [seaborn](https://seaborn.pydata.org) - A Python data visualization library that provides a high-level interface for drawing attractive and informative statistical graphics.
-- [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data. It helps people take data of any shape or size and publish that as an interactive, explorable website and accompanying API.
+- [simonw/datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 - [slowkow/ggrepel](https://github.com/slowkow/ggrepel) - Provides geoms for ggplot2 to repel overlapping text labels.
 - [smin95/smplot2](https://github.com/smin95/smplot2) - An R package for statistical data visualization that complements ggplot2.
 - [taiyun/corrplot](https://github.com/taiyun/corrplot) - A visual exploratory tool on correlation matrix.
