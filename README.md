@@ -471,6 +471,7 @@ Table of Contents
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites to improve performance and user experience.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons.
+- [filiph/unsure](https://github.com/filiph/unsure) - Allows you to perform calculations with uncertain values by inputting ranges (e.g., 10~15) instead of exact numbers. It uses Monte Carlo simulations to provide probabilistic results, helping you understand the range and likelihood of possible outcomes.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web extension for saving a faithful copy of a complete web page in a single HTML file.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern alternatives to common Unix commands.
