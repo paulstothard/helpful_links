@@ -297,6 +297,8 @@ Table of Contents
 - [bioFAM/MOFA2](https://github.com/bioFAM/MOFA2) - A factor analysis model that provides a general framework for the integration of multiomic data sets in an unsupervised fashion.
 - [cantinilab/momix-notebook](https://github.com/cantinilab/momix-notebook) - Evaluation of multiomics joint dimensionality reduction approaches.
 - [mixOmics](https://www.bioconductor.org/packages/release/bioc/html/mixOmics.html) - An R package that offers a wide range of multivariate methods for the exploration and integration of biological datasets with a particular focus on variable selection.
+- [Plant-Food-Research-Open/moiraine](https://github.com/Plant-Food-Research-Open/moiraine) - An R package for facilitating the construction of a reproducible analysis pipeline for multi-omics data integration.
+- [selbouhaddani/OmicsPLS](https://github.com/selbouhaddani/OmicsPLS) - An R package for high-dimensional data analysis and integration with O2PLS.
 
 ## NCBI
 
