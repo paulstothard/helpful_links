@@ -23,6 +23,7 @@ Table of Contents
   - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
   - [Genome assembly](#genome-assembly)
   - [Genome visualization](#genome-visualization)
+  - [Genotype imputation](#genotype-imputation)
   - [GWAS](#gwas)
   - [Images](#images)
   - [Machine learning](#machine-learning)
@@ -142,6 +143,7 @@ Table of Contents
 - [Docusaurus](https://docusaurus.io/) - An open-source framework for building static websites, particularly for documentation, with simple configuration, Markdown support, versioning, search, and localization.
 - [GitBook](https://www.gitbook.com/) - An online platform for creating and hosting documentation with version control, team collaboration, and integrations for a collaborative writing environment.
 - [honkit/honkit](https://github.com/honkit/honkit) - A command-line tool and Node.js library based on GitBook for building  online documentation or ebooks using Markdown files.
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - A Markdown-based typesetting system that can be used to create a print-ready book or an interactive presentation.
 - [Jekyll](https://jekyllrb.com/) - A static site generator for creating websites or blogs using plain text files and Markdown syntax with customizable templates.
 - [JupyterBook](https://jupyterbook.org/) - An open-source tool for building interactive, publication-quality books and documentation using Jupyter Notebooks and Markdown, incorporating code, visualizations, and interactive elements.
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - Converts simple HTML pages into visually appealing PDF reports, invoices, and posters.
@@ -237,6 +239,13 @@ Table of Contents
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 - [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
 
+## Genotype imputation
+
+-[Beagle](https://faculty.washington.edu/browning/beagle/beagle.html)- A software package for phasing genotypes and imputing ungenotyped markers.
+-[odelaneau/GLIMPSE](https://github.com/odelaneau/GLIMPSE) - A set of tools for low-coverage whole genome sequencing imputation.
+-[rwdavies/QUILT](https://github.com/rwdavies/QUILT) - Fast genotype imputation from low-coverage sequence using a large reference panel.
+-[rwdavies/STITCH](https://github.com/rwdavies/STITCH) - Reference-panel-free, read-aware genotype imputation from low-coverage sequencing data.
+
 ## GWAS
 
 - [brentp/vcfassoc](https://github.com/brentp/vcfassoc) - Perform genotype-phenotype-association tests on a VCF with logistic regression.
@@ -330,6 +339,7 @@ Table of Contents
 - [fastStructure](https://rajanil.github.io/fastStructure/) - Infer population structure from large SNP genotype data.
 - [HAPMIX](https://www.hsph.harvard.edu/alkes-price/software/) - Infer chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.
 - [lima1/franzpedigree](https://github.com/lima1/franzpedigree) - A fast and flexible parentage inference program for natural populations.
+- [MesserLab/SLiM](https://github.com/MesserLab/SLiM) - A genetically explicit forward simulation software package for population genetics and evolutionary biology.
 - [millanek/Dsuite](https://github.com/millanek/Dsuite) - Fast calculation of Patterson's D (ABBA-BABA) and the f4-ratio statistics across many populations/species using VCF files and genotype uncertainty.
 - [NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) - A tool for estimating individual admixture proportions from NGS data that makes use of genotype likelihoods and works well for medium and low coverage NGS data.
 - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html) - Use multi-locus genotype data to investigate population structure.
