@@ -120,6 +120,7 @@ Table of Contents
 - [thomasp85/patchwork](https://github.com/thomasp85/patchwork) - The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic.
 - [vega/altair](https://github.com/vega/altair) - A simple and consistent API for data visualizations in Python.
 - [wilkox/gggenes](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2.
+- [TabularJSON](https://tabularjson.com) - Start typing or drop a JSON/JSONL file, a great JSON visualisation tool.
 
 ## Diagrams, flowcharts and maps
 
