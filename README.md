@@ -10,6 +10,7 @@ Table of Contents
   - [ATAC-Seq](#atac-seq)
   - [Audiovisual](#audiovisual)
   - [BAM and SAM](#bam-and-sam)
+  - [Blogs, newsletters, and aggregators](#blogs-newsletters-and-aggregators)
   - [ChIP-Seq](#chip-seq)
   - [Containers](#containers)
   - [Courses and training](#courses-and-training)
@@ -67,6 +68,45 @@ Table of Contents
 - [samtools/samtools](https://github.com/samtools/samtools) - Tools for manipulating next-generation sequencing data.
 - [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
 - [sstadick/perbase)](https://github.com/sstadick/perbase) - Calculate per-base statistics from BAM/CRAM files.
+
+## Blogs, newsletters, and aggregators
+
+- [AI Engineer](https://aiengineer.substack.com) - Newsletter by Julian Harris focused on building real software systems with AI assistance, emphasizing practical workflows, tooling, and open-source examples.
+- [AINews by smol.ai](https://www.smol.ai) - Daily curated summaries of important developments, tools, and discussions in artificial intelligence.
+- [ASeq Newsletter](https://aseq.substack.com) - Newsletter centered on sequencing technologies, genomics, and bioinformatics, with commentary on methods and trends.
+- [Asimov Press](https://www.asimov.press) - Long-form, deeply researched essays on biology, biotechnology, and how emerging technologies shape the life sciences.
+- [Bioconductor community blog](https://bioconductor.org/blog/) - Official community blog of the Bioconductor project, featuring updates, tutorials, conference reports, and ecosystem news.
+- [Bioinformatics Blogs](https://www.bioinformaticsblogs.com) - Aggregator collecting posts from bioinformatics blogs across academia and industry.
+- [Bits in Bio](https://bitsinbio.org) - Community platform at the intersection of biology and computation, featuring member writing, resources, and events.
+- [Colossal’s newsletter](https://colossal.com) - Updates and writing from Colossal Biosciences on de-extinction, conservation, and related biotechnology research.
+- [De Novo](https://denovo.substack.com) - Newsletter focused on synthetic biology and engineered biological systems.
+- [Decoding Bio](https://www.decodingbio.com) - Explains biotechnology research, companies, and trends in accessible language for scientists and non-specialists.
+- [Emily Riederer’s blog](https://emilyriederer.netlify.app) - Writing on data science practice, reproducible analysis, data engineering, and thoughtful workflow design.
+- [Fulcrum Genomics](https://fulcrumgenomics.com/blog/) - Technical posts on genomics analysis, sequencing pipelines, and applied bioinformatics tooling.
+- [Genes, Minds, Machines](https://genesmindsmachines.substack.com) - Essays exploring biology, cognition, data visualization, AI, and scientific communication.
+- [Ground Truths](https://groundtruths.substack.com) - Writing that engages with science, data, and evidence, often through analytical or reflective essays.
+- [Hacker News Digest](https://hndigest.com) - Curated email digests summarizing top discussions and links from Hacker News.
+- [LatchBio](https://latch.bio/blog) - Blog covering bioinformatics infrastructure, scalable computation, and modern biocomputing platforms.
+- [Neural NeXus](https://neuralnexus.substack.com) - Newsletter highlighting AI research, trends, and commentary on neural networks and machine learning.
+- [nf-core blog](https://nf-co.re/blog) - Community blog for the nf-core ecosystem, covering Nextflow pipelines, standards, and community updates.
+- [Niko McCarty](https://nikomccarty.com) - Essays on science, technology, and society (site intermittently unavailable).
+- [One Useful Thing](https://oneusefulthing.org) - Ethan Mollick’s analysis of AI capabilities, limits, and implications for work, education, and society.
+- [Owl Posting](https://owlposting.com) - Essays on biology, machine learning, and scientific reasoning.
+- [Posit Blog](https://posit.co/blog/) - Official blog from Posit covering R, Python, data science tooling, and ecosystem developments.
+- [Punctuated Equilibrium](https://punctuated.substack.com) - Personal newsletter documenting creative work and reflections, particularly around bookbinding and design.
+- [R Bloggers](https://www.r-bloggers.com) - Aggregator of R-related blog posts, tutorials, and package announcements.
+- [R Weekly](https://rweekly.org) - Curated weekly newsletter highlighting R news, tutorials, packages, and community updates.
+- [Rhymes with Haystack](https://rhymeswithhaystack.substack.com) - Newsletter covering biotechnology and omics topics such as NGS, single-cell, spatial biology, and proteomics.
+- [Science and skepticism](https://scienceandskepticism.org) - Writing focused on scientific skepticism, pseudoscience, medicine, and critical evaluation of claims.
+- [Seanome’s Substack](https://seanome.substack.com) - Newsletter centered on genomics, sequencing, and bioinformatics, with a personal and exploratory tone.
+- [Seqera (Nextflow) blog](https://seqera.io/blog/) - Posts on Nextflow, workflow orchestration, reproducible science, and large-scale data analysis.
+- [Simon Willison’s Newsletter](https://simonwillison.net/newsletter/) - Newsletter announcing new posts on AI, software engineering, data, and open-source tools.
+- [Simon Willison’s Weblog](https://simonwillison.net) - Blog covering AI/LLMs, web development, open source, and practical software experimentation.
+- [Stephen Turner’s blog](https://blog.stephenturner.us/) - Bioinformatics, genomics, and data science posts, including practical analyses and commentary.
+- [The Century of Biology](https://www.centuryofbio.com) - Essays examining modern biology, biotechnology, and the long-term trajectory of life sciences.
+- [The Connected Ideas Project](https://connectedideasproject.com) - Essays and interviews connecting ideas across science, technology, and society.
+- [The R Data Scientist](https://thedatascientist.com) - Broad data science site featuring articles, tutorials, and industry-oriented content.
+- [UVA SDS News](https://datascience.virginia.edu/news) - News and updates from the University of Virginia School of Data Science.
 
 ## ChIP-Seq
 
