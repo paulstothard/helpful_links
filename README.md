@@ -57,8 +57,21 @@ Table of Contents
 
 ## Audiovisual
 
-- [ffmpeg](https://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [Aegisub](https://aegisub.org/) – Subtitle editor for timing, styling, and scripting ASS/SSA subtitles.
+- [FFmpeg documentation](https://ffmpeg.org/documentation.html) – Official reference for ffmpeg usage, options, and filters.
+- [ffmpeg](https://ffmpeg.org/) – Command-line toolkit for decoding, encoding, remuxing, filtering, and inspecting multimedia files.
 - [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - A tool to help you build complex FFmpeg commands without writing a single line of code.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo) – Inspect video and audio files to see exact codecs, bit depth, frame rate, color space, and container metadata.
+- [MKVCleaver](https://github.com/Bioruebe/MKVcleaver) – Simple GUI tool for demuxing streams from MKV containers.
+- [MKVExtractGUI-2](https://github.com/gpac/MKVExtractGUI-2) – Graphical frontend for extracting tracks, chapters, and attachments from MKV files.
+- [MkvToMp4](https://www.videohelp.com/software/MkvToMp4) – Remux MKV files to MP4 while enforcing constant frame rate when needed.
+- [MKVToolNix](https://mkvtoolnix.download/) – GUI and CLI tools for creating, editing, and inspecting Matroska (MKV) containers.
+- [MPC-HC](https://github.com/clsid2/mpc-hc) – Lightweight Windows media player with good codec support and precise seeking.
+- [mpv](https://mpv.io/) – High-quality, scriptable media player ideal for accurate playback, screenshots, and quick encode checks.
+- [SlowPics](https://slow.pics/) – Web tool for hosting and interactively comparing image and frame-by-frame screenshots.
+- [vs-preview](https://github.com/Irrational-Encoding-Wizardry/vs-preview) – VapourSynth-based preview tool for generating and uploading encode comparisons.
+- [x264](https://www.videolan.org/developers/x264.html) – Widely used H.264 encoder focused on compression efficiency and quality control.
+- [x265](https://www.videolan.org/developers/x265.html) – HEVC (H.265) encoder optimized for high compression and advanced rate control.
 
 ## BAM and SAM
 
