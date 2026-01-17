@@ -532,6 +532,7 @@ Table of Contents
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small macOS application that allows you to thoroughly uninstall unwanted apps.
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Tries to accelerate the download process by using multiple connections per file, and can also balance the load between different servers. Supports HTTP, HTTPS, FTP and FTPS protocols.
+- [bjesus/pipet](https://github.com/bjesus/pipet) - A command-line web scraper that supports HTML parsing, JSON parsing, and client-side JavaScript evaluation for extracting data from online assets.
 - [casey/just](https://github.com/casey/just) - A handy way to save and run project-specific commands.
 - [ClipGrab](https://clipgrab.org) - A free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
@@ -546,6 +547,7 @@ Table of Contents
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - A powerful menu bar manager for macOS.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility for macOS that prevents your Mac from going to sleep.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
+- [Pipit](https://www.pipitvoice.com) - A macOS voice-to-text dictation app with local AI-powered transcription, clipboard history, and file transcription capabilities.
 - [rclone/rclone](https://github.com/rclone/rclone) - A command-line program to sync files and directories to and from different cloud storage providers.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
