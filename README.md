@@ -215,7 +215,8 @@ Table of Contents
 
 ## Genome alignment and comparison
 
-- [bluenote-1577/skani](bluenote-1577/skani) - Fast, robust ANI and aligned fraction for genomes and contigs.
+- [bcgsc/ntSynt-viz](https://github.com/bcgsc/ntSynt-viz) - Generate ribbon plots to visualize multi-genome synteny blocks.
+- [bluenote-1577/skani](https://github.com/bluenote-1577/skani) - Fast, robust ANI and aligned fraction for genomes and contigs.
 - [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 - [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [lastz/lastz](https://github.com/lastz/lastz) - A program for aligning DNA sequences, a pairwise aligner.
@@ -295,10 +296,10 @@ Table of Contents
 
 ## Genotype imputation
 
--[Beagle](https://faculty.washington.edu/browning/beagle/beagle.html)- A software package for phasing genotypes and imputing ungenotyped markers.
--[odelaneau/GLIMPSE](https://github.com/odelaneau/GLIMPSE) - A set of tools for low-coverage whole genome sequencing imputation.
--[rwdavies/QUILT](https://github.com/rwdavies/QUILT) - Fast genotype imputation from low-coverage sequence using a large reference panel.
--[rwdavies/STITCH](https://github.com/rwdavies/STITCH) - Reference-panel-free, read-aware genotype imputation from low-coverage sequencing data.
+- [Beagle](https://faculty.washington.edu/browning/beagle/beagle.html) - A software package for phasing genotypes and imputing ungenotyped markers.
+- [odelaneau/GLIMPSE](https://github.com/odelaneau/GLIMPSE) - A set of tools for low-coverage whole genome sequencing imputation.
+- [rwdavies/QUILT](https://github.com/rwdavies/QUILT) - Fast genotype imputation from low-coverage sequence using a large reference panel.
+- [rwdavies/STITCH](https://github.com/rwdavies/STITCH) - Reference-panel-free, read-aware genotype imputation from low-coverage sequencing data.
 
 ## GWAS
 
