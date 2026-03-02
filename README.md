@@ -208,6 +208,7 @@ Table of Contents
 - [paulstothard/fast-pptx](https://github.com/paulstothard/fast-pptx) - Generate Markdown and PowerPoint slides from a folder of images, code snippets, and other files.
 - [Quarto](https://quarto.org/) - A scientific computing environment integrating Markdown, code, and output into a single format, enabling reproducible reports, books, or websites with multiple language support and rich media content.
 - [secretGeek/clowncar](https://github.com/secretGeek/clowncar) - A lightweight static site generator converting Markdown files into HTML pages without complex configurations or dependencies.
+- [Typst](https://typst.app/) - A modern markup-based typesetting system designed for scientific writing with a simple syntax, fast compilation, and built-in support for mathematical equations, bibliographies, and figures.
 
 ## EMBL-EBI
 
@@ -469,6 +470,7 @@ Table of Contents
 - [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 - [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
 - [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
+- [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl) - Download FASTQ files from SRA or ENA repositories.
 - [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
 - [telatin/seqfu2](https://github.com/telatin/seqfu2) - A general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
 - [tseemann/any2fasta](https://github.com/tseemann/any2fasta) - Convert various sequence formats to FASTA.
@@ -546,6 +548,7 @@ Table of Contents
 - [joh/when-changed](https://github.com/joh/when-changed) - Execute a command when a file is changed.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - A powerful menu bar manager for macOS.
+- [kzaremski/apple-notes-exporter](https://github.com/kzaremski/apple-notes-exporter) - Export Apple Notes to HTML, LaTeX, Markdown and other formats.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility for macOS that prevents your Mac from going to sleep.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
 - [Pipit](https://www.pipitvoice.com) - A macOS voice-to-text dictation app with local AI-powered transcription, clipboard history, and file transcription capabilities.
@@ -553,7 +556,6 @@ Table of Contents
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML files.
-- [storizzi/notes-exporter](https://github.com/storizzi/notes-exporter) - Export Apple Notes in Markdown, HTML, or PDF format.
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - Command-line tool to save web pages as a single HTML file.
 
