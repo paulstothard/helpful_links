@@ -540,6 +540,7 @@ Table of Contents
 - [ClipGrab](https://clipgrab.org) - A free downloader and converter for YouTube, Vimeo, Facebook and many other online video sites.
 - [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [divriots/jampack](https://github.com/divriots/jampack) - Optimizes static websites to improve performance and user experience.
+- [Dot](https://www.trydot.app) - A macOS menu bar calendar app that puts your full schedule, meeting reminders, and one-click joining tools right in the menu bar for fast access to events and calendars.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons.
 - [filiph/unsure](https://github.com/filiph/unsure) - Allows you to perform calculations with uncertain values by inputting ranges (e.g., 10~15) instead of exact numbers. It uses Monte Carlo simulations to provide probabilistic results, helping you understand the range and likelihood of possible outcomes.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web extension for saving a faithful copy of a complete web page in a single HTML file.
@@ -554,6 +555,7 @@ Table of Contents
 - [Pipit](https://www.pipitvoice.com) - A macOS voice-to-text dictation app with local AI-powered transcription, clipboard history, and file transcription capabilities.
 - [rclone/rclone](https://github.com/rclone/rclone) - A command-line program to sync files and directories to and from different cloud storage providers.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
+- [royalbhati/HopTab](https://github.com/royalbhati/HopTab) - A macOS workspace manager that helps you quickly switch between selected apps and organize windows, layouts, profiles, and sessions for a more focused workflow.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML files.
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
