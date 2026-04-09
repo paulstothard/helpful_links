@@ -291,6 +291,7 @@ Table of Contents
 - [cmdcolin/awesome-genome-visualization](https://github.com/cmdcolin/awesome-genome-visualization) - Interesting genome browser or genome-browser-like implementations.
 - [deeptools/pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks) - Reproducible plots for multivariate genomic data sets.
 - [igvteam/igv-reports](https://github.com/igvteam/igv-reports) - Generate self-contained HTML reports that consist of a table of genomic sites or regions and associated IGV views for each site.
+- [JustinChu/JupiterPlot](https://github.com/JustinChu/JupiterPlot) - A Circos-based tool for visualizing genome assembly consistency and synteny between assemblies.
 - [moshi4/pyGenomeViz](https://github.com/moshi4/pyGenomeViz) - A genome visualization Python package for comparative genomics.
 - [paulstothard/cgview](https://github.com/paulstothard/cgview) - Generate high-quality, zoomable maps of circular genomes.
 - [Proksee](https://proksee.ca) - In-depth characterization and visualization of bacterial genomes.
