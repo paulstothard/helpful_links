@@ -470,6 +470,7 @@ Table of Contents
 - [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 - [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
 - [pachterlab/ffq](https://github.com/pachterlab/ffq) - A tool to find sequencing data and metadata from public databases.
+- [pachterlab/gget](https://github.com/pachterlab/gget) - Efficient querying of genomic reference databases with support for Ensembl, NCBI, UniProt, BLAST, and other genomic data sources.
 - [rpetit3/fastq-dl](https://github.com/rpetit3/fastq-dl) - Download FASTQ files from SRA or ENA repositories.
 - [shenwei356/seqkit](https://github.com/shenwei356/seqkit) - A cross-platform and ultrafast toolkit for FASTA/Q file manipulation.
 - [telatin/seqfu2](https://github.com/telatin/seqfu2) - A general-purpose program to manipulate and parse information from FASTA/FASTQ files, supporting gzipped input files.
