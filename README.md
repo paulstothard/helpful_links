@@ -467,6 +467,7 @@ Table of Contents
 
 - [ialbert/bio](https://github.com/ialbert/bio) - A collection of command-line utilities for working with sequence records.
 - [kblin/ncbi-acc-download](https://github.com/kblin/ncbi-acc-download) - Download files from NCBI Entrez by accession.
+- [kblin/ncbi-genome-download](https://github.com/kblin/ncbi-genome-download) - Download genome assemblies and related files from NCBI.
 - [kingfisher-download](https://github.com/wwood/kingfisher-download) - Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.
 - [lindenb/jvarkit](https://github.com/lindenb/jvarkit) - Java utilities for bioinformatics.
 - [nf-core/fetchngs](https://github.com/nf-core/fetchngs) - Pipeline to fetch metadata and raw FASTQ files from public and private databases.
