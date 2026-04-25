@@ -184,6 +184,7 @@ Table of Contents
 ## Document conversion and manipulation
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - A library for converting from one markup format to another, and a command-line tool that uses this library.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - A tool for converting many document formats into Markdown for downstream processing and analysis.
 - [pansapiens/standalone_html.py](https://gist.github.com/pansapiens/110431456e8a4ba4f2eb) - Convert HTML to a self contained file with inline Base64 encoded PNG images.
 - [paulstothard/document-builder](https://github.com/paulstothard/document-builder) - Produces nicely formatted PDF and HTML documents from Markdown source files.
 - [PDFgear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files.
@@ -406,6 +407,7 @@ Table of Contents
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Practical programming for total beginners.
+- [Google Colab](https://colab.google/) - A hosted Jupyter notebook environment for running Python in the browser with optional GPU access and easy sharing.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - A comprehensive Python cheat sheet.
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - A collection of boilerplate templates for writing better Bash scripts.
 - [R for Data Science](https://r4ds.had.co.nz) - Learn how to get your data into R, get it into the most useful structure, transform it, visualize it and model it.
