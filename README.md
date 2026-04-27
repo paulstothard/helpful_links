@@ -327,6 +327,7 @@ Table of Contents
 - [Photopea](https://www.photopea.com) - A free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
 - [Shottr](https://shottr.cc) - A fast and feature-rich screenshot tool for macOS.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites.
 
 ## Machine learning
 
