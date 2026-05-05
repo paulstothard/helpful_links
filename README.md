@@ -556,6 +556,7 @@ Table of Contents
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for adding a table of contents to a Markdown file.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - A powerful menu bar manager for macOS.
 - [kzaremski/apple-notes-exporter](https://github.com/kzaremski/apple-notes-exporter) - Export Apple Notes to HTML, LaTeX, Markdown and other formats.
+- [Mosh](https://mosh.org) - A mobile shell for remote terminal sessions that supports roaming and intermittent connectivity.
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility for macOS that prevents your Mac from going to sleep.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - Wraps ripgrep and enables it to search more file types.
 - [Pipit](https://www.pipitvoice.com) - A macOS voice-to-text dictation app with local AI-powered transcription, clipboard history, and file transcription capabilities.
@@ -564,6 +565,7 @@ Table of Contents
 - [royalbhati/HopTab](https://github.com/royalbhati/HopTab) - A macOS workspace manager that helps you quickly switch between selected apps and organize windows, layouts, profiles, and sessions for a more focused workflow.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links within HTML files.
+- [Tailscale](https://tailscale.com) - A mesh VPN built on WireGuard for secure access to devices and services across networks.
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - Command-line tool to save web pages as a single HTML file.
 
