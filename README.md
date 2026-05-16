@@ -483,6 +483,7 @@ Table of Contents
 
 ## Software development tools
 
+- [biowasm/biowasm](https://github.com/biowasm/biowasm) - WebAssembly modules for running genomics tools in web browsers.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [heyman/heynote](https://github.com/heyman/heynote/) - A dedicated scratchpad for developers.
 - [JupyterLab](https://jupyter.org) - A web-based interactive development environment for notebooks, code, and data.
