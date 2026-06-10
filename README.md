@@ -127,6 +127,7 @@ Table of Contents
 
 ## Containers
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac.
 - [BioContainers](https://biocontainers.pro) - A registry of bioinformatics software containers.
 - [Docker Hub](https://hub.docker.com) - Find and share Docker container images.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers and Linux machines for macOS.
@@ -313,6 +314,7 @@ Table of Contents
 - [jianyangqt/gcta](https://github.com/jianyangqt/gcta) - A software package for performing genome-wide association studies and many related analyses.
 - [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
 - [qtltools/qtltools](https://github.com/qtltools/qtltools) - A tool collection for the discovery of molecular QTLs (e.g. eQTLs) from raw sequence data.
+- [rgcgithub/regenie](https://github.com/rgcgithub/regenie) - A C++ program for whole genome regression modelling of large genome-wide association studies.
 - [TASSEL](https://www.maizegenetics.net/tassel) - A software package for assessing diversity, linkage disequilibrium, relatedness, and genotype / phenotype associations.
 - [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
 
