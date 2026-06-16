@@ -332,6 +332,7 @@ Table of Contents
 - [Shottr](https://shottr.cc) - A fast and feature-rich screenshot tool for macOS.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites.
+- [skyrpex/potrace](https://github.com/skyrpex/potrace) - Transform bitmaps into smooth, scalable vector graphics.
 
 ## Machine learning
 
