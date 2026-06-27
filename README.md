@@ -233,6 +233,7 @@ Table of Contents
 - [paulstothard/cct](https://github.com/paulstothard/cgview_comparison_tool) - A package for visually comparing bacterial, plasmid, chloroplast, and mitochondrial sequences.
 - [schneebergerlab/plotsr](https://github.com/schneebergerlab/plotsr) - Plot synteny and structural rearrangements between genomes.
 - [schneebergerlab/syri](https://github.com/schneebergerlab/syri) - Predict and visualize genomic differences between related genomes using whole-genome assemblies.
+- [vgteam/vg](https://github.com/vgteam/vg) - Tools for working with genome variation graphs.
 
 ## Genome annotation and sequence characterization
 
