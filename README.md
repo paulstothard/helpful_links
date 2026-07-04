@@ -37,6 +37,7 @@ Table of Contents
   - [Programming](#programming)
   - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
   - [RNA-Seq](#rna-seq)
+  - [Single-cell](#single-cell)
   - [Sequence feature utilities](#sequence-feature-utilities)
   - [Sequence read alignment](#sequence-read-alignment)
   - [Sequence searching and clustering](#sequence-searching-and-clustering)
@@ -46,7 +47,7 @@ Table of Contents
   - [Synthetic data](#synthetic-data)
   - [Tabular data and exploratory data analysis](#tabular-data-and-exploratory-data-analysis)
   - [Utilities](#utilities)
-  - [Variant identification and analysis](#variant-identification-and-analysis)
+  - [Variant calling, annotation, and analysis](#variant-calling-annotation-and-analysis)
   - [VCF files](#vcf-files)
   - [Vim](#vim)
   - [Workflow development and workflows](#workflow-development-and-workflows)
@@ -76,11 +77,13 @@ Table of Contents
 ## BAM and SAM
 
 - [alimanfoo/pysamstats](https://github.com/alimanfoo/pysamstats) - Reports simple statistics for genome positions based on sequence alignments from a SAM or BAM file.
+- [brentp/mosdepth](https://github.com/brentp/mosdepth) - Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
+- [broadinstitute/picard](https://github.com/broadinstitute/picard) - Command-line tools for manipulating HTS data and formats such as SAM, BAM, CRAM, and VCF.
 - [genome/bam-readcount](https://github.com/genome/bam-readcount) - Generates low-level information about sequencing data at specific nucleotide positions in a BAM or CRAM file.
 - [pysam-developers/pysam](https://github.com/pysam-developers/pysam) - A Python module for reading and manipulating SAM/BAM/VCF/BCF files.
 - [samtools/samtools](https://github.com/samtools/samtools) - Tools for manipulating next-generation sequencing data.
 - [shiquan/bamdst](https://github.com/shiquan/bamdst) - Generate BAM file statistics.
-- [sstadick/perbase)](https://github.com/sstadick/perbase) - Calculate per-base statistics from BAM/CRAM files.
+- [sstadick/perbase](https://github.com/sstadick/perbase) - Calculate per-base statistics from BAM/CRAM files.
 
 ## Blogs, newsletters, and aggregators
 
@@ -238,6 +241,8 @@ Table of Contents
 ## Genome annotation and sequence characterization
 
 - [AdmiralenOla/Scoary](https://github.com/AdmiralenOla/Scoary) - Pan-genome wide association studies.
+- [antiSMASH](https://antismash.secondarymetabolites.org/) - Identify and annotate biosynthetic gene clusters in bacterial, fungal, and plant genomes.
+- [eggnogdb/eggnog-mapper](https://github.com/eggnogdb/eggnog-mapper) - Fast genome-wide functional annotation through orthology assignment.
 - [fmalmeida/bacannot](https://github.com/fmalmeida/bacannot) - Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports.
 - [fwhelan/coinfinder](https://github.com/fwhelan/coinfinder) - A tool for the identification of coincident (associating and dissociating) genes in pangenomes.
 - [Gaius-Augustus/BRAKER](https://github.com/Gaius-Augustus/BRAKER) - A pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET and AUGUSTUS in novel eukaryotic genomes.
@@ -268,6 +273,7 @@ Table of Contents
 - [gbouras13/hybracter](https://github.com/gbouras13/hybracter) - An automated long-read first bacterial genome assembly tool implemented in Snakemake.
 - [gbouras13/plassembler](https://github.com/gbouras13/plassembler) - Program to quickly and accurately assemble plasmids in hybrid and long-only sequenced bacterial isolates.
 - [Guide to Bacterial Genome Assembly](https://rrwick.github.io/2020/10/30/guide-to-bacterial-genome-assembly.html) - Strategies for obtaining high-quality genome assemblies for bacterial isolate genomes.
+- [hifiasm](https://github.com/chhylp123/hifiasm) - Haplotype-resolved assembler for PacBio HiFi reads.
 - [Kinggerm/GetOrganelle](https://github.com/Kinggerm/GetOrganelle) - A fast and versatile toolkit for accurate assembly of organelle genomes.
 - [lbcb-sci/racon](https://github.com/lbcb-sci/racon) - Ultrafast consensus module for raw de novo genome assembly of long uncorrected reads.
 - [lbcb-sci/raven](https://github.com/lbcb-sci/raven) - A de novo genome assembler for long uncorrected reads.
@@ -316,6 +322,7 @@ Table of Contents
 - [MareesAT/GWA_tutorial](https://github.com/MareesAT/GWA_tutorial) - A comprehensive tutorial about GWAS and PRS.
 - [qtltools/qtltools](https://github.com/qtltools/qtltools) - A tool collection for the discovery of molecular QTLs (e.g. eQTLs) from raw sequence data.
 - [rgcgithub/regenie](https://github.com/rgcgithub/regenie) - A C++ program for whole genome regression modelling of large genome-wide association studies.
+- [SAIGE](https://github.com/saigegit/SAIGE) - Scalable generalized mixed model association tests for large genetic association studies.
 - [TASSEL](https://www.maizegenetics.net/tassel) - A software package for assessing diversity, linkage disequilibrium, relatedness, and genotype / phenotype associations.
 - [xiaolei-lab/rMVP](https://github.com/xiaolei-lab/rMVP) - A Memory-efficient, visualization-enhanced, and parallel-accelerated tool for GWAS.
 
@@ -354,14 +361,17 @@ Table of Contents
 - [biobakery/humann](https://github.com/biobakery/humann) - A pipeline for efficiently and accurately profiling the presence/absence and abundance of microbial pathways in a community from metagenomic or metatranscriptomic sequencing data.
 - [biobakery/Maaslin2](https://github.com/biobakery/Maaslin2) - A comprehensive R package for efficiently determining multivariable association between clinical metadata and microbial meta-omics features.
 - [biobakery/MetaPhlAn](https://github.com/biobakery/MetaPhlAn) - A computational tool for profiling the composition of microbial communities (Bacteria, Archaea and Eukaryotes) from metagenomic shotgun sequencing data.
+- [DerrickWood/kraken2](https://github.com/DerrickWood/kraken2) - Taxonomic sequence classification system for metagenomic reads.
 - [Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk) - A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.
 - [fbreitwieser/pavian](https://github.com/fbreitwieser/pavian) - Interactive analysis of metagenomics data.
+- [merenlab/anvio](https://github.com/merenlab/anvio) - An analysis and visualization platform for microbial omics data.
 - [metagenome-atlas/atlas](https://github.com/metagenome-atlas/atlas) - Metagenome-Atlas is a easy-to-use metagenomic pipeline based on Snakemake.
 - [MrOlm/drep](https://github.com/MrOlm/drep) - Rapid comparison and dereplication of genomes.
 - [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 
 ## Methyl-Seq
 
+- [Bismark](https://github.com/FelixKrueger/Bismark) - Map bisulfite-converted reads and determine cytosine methylation states.
 - [EpiDiverse](https://github.com/EpiDiverse) - A collection of Nextflow pipelines for epigenome analysis.
 - [kdkorthauer/dmrseq](https://github.com/kdkorthauer/dmrseq) - R package for inference of differentially methylated regions (DMRs) from bisulfite sequencing.
 - [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
@@ -391,7 +401,9 @@ Table of Contents
 - [FastTree](http://www.microbesonline.org/fasttree/) - Efficient in memory and time inference of phylogenetic trees from up to a million aligned nucleotide or protein sequences.
 - [IcyTree](https://icytree.org) - A browser-based phylogenetic tree viewer.
 - [iTOL](https://itol.embl.de) - iTOL is an online tool for the display, annotation, and management of phylogenetic trees.
+- [MAFFT](https://mafft.cbrc.jp/alignment/software/) - Multiple sequence alignment program for nucleotide and protein sequences.
 - [MEGA](https://www.megasoftware.net) - Conduct statistical analysis of molecular evolution and for constructing phylogenetic trees.
+- [RAxML-NG](https://github.com/amkozlov/raxml-ng) - Maximum likelihood phylogenetic inference for large biological sequence datasets.
 - [stephaneguindon/phyml](https://github.com/stephaneguindon/phyml) - Package that uses modern statistical approaches to analyse alignments of nucleotide or amino acid sequences in a phylogenetic framework.
 - [YuLab-SMU/ggtree](https://github.com/YuLab-SMU/ggtree) - Visualization and annotation of phylogenetic trees.
 
@@ -427,6 +439,7 @@ Table of Contents
 ## Raw sequence data processing and QC
 
 - [BBMap](https://sourceforge.net/projects/bbmap/) - Includes BBMap, a short read aligner, as well as various other bioinformatic tools written in Java.
+- [Cutadapt](https://cutadapt.readthedocs.io/en/stable/) - Trim adapters and other unwanted sequences from high-throughput sequencing reads.
 - [gear-genomics/tracy](https://github.com/gear-genomics/tracy) - Basecalling, alignment, assembly and deconvolution of Sanger Chromatogram trace files.
 - [huishenlab/biscuit](https://github.com/huishenlab/biscuit) - Perform alignment, DNA methylation and mutation calling, and allele specific methylation from bisulfite sequencing data.
 - [kishwarshafin/pepper](https://github.com/kishwarshafin/pepper) - A genome inference module based on recurrent neural networks that enables long-read variant calling and nanopore assembly polishing in the PEPPER-Margin-DeepVariant pipeline.
@@ -440,6 +453,9 @@ Table of Contents
 
 ## RNA-Seq
 
+- [COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon) - Fast transcript-level quantification from RNA-seq reads using selective alignment.
+- [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) - Differential expression analysis for sequence count data.
+- [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html) - Differential expression analysis of RNA-seq count data using empirical Bayes methods.
 - [kevinblighe/EnhancedVolcano](https://github.com/kevinblighe/EnhancedVolcano) - Publication-ready volcano plots with enhanced colouring and labeling.
 - [nf-core/nanoseq](https://github.com/nf-core/nanoseq) - Nanopore demultiplexing, QC and alignment pipeline.
 - [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.
@@ -449,6 +465,11 @@ Table of Contents
 - [suhrig/arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data.
 - [YosefLab/ImpulseDE2](https://github.com/YosefLab/ImpulseDE2) -  A differential expression algorithm for longitudinal count data sets from RNA-Seq, ChIP-Seq, ATAC-Seq and DNase-Seq experiments.
 - [zhangyuqing/ComBat-seq](https://github.com/zhangyuqing/ComBat-seq) - A batch effect removal tool for RNA-seq data.
+
+## Single-cell
+
+- [satijalab/seurat](https://github.com/satijalab/seurat) - R toolkit for single-cell genomics.
+- [scverse/scanpy](https://github.com/scverse/scanpy) - Python toolkit for scalable single-cell analysis.
 
 ## Sequence feature utilities
 
@@ -462,9 +483,12 @@ Table of Contents
 
 ## Sequence read alignment
 
+- [Bowtie 2](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml) - Fast and sensitive gapped read alignment.
+- [HISAT2](https://daehwankimlab.github.io/hisat2/) - Fast and sensitive alignment of sequencing reads, including spliced alignment.
 - [lh3/bwa](https://github.com/lh3/bwa) - Burrows-Wheeler aligner for short-read alignment.
 - [lh3/minimap2](https://github.com/lh3/minimap2) - A versatile pairwise aligner for genomic and spliced nucleotide sequences.
 - [philres/ngmlr](https://github.com/philres/ngmlr) - A long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference genome with a focus on reads that span structural variations.
+- [STAR](https://github.com/alexdobin/STAR) - Spliced aligner for RNA-seq reads.
 
 ## Sequence searching and clustering
 
@@ -576,19 +600,28 @@ Table of Contents
 - [tcort/markdown-link-check](https://github.com/tcort/markdown-link-check) - Check hyperlinks in Markdown text.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - Command-line tool to save web pages as a single HTML file.
 
-## Variant identification and analysis
+## Variant calling, annotation, and analysis
 
 - [ACEnglish/truvari](https://github.com/ACEnglish/truvari) - A toolkit for benchmarking, merging, and annotating structural variants.
+- [ANNOVAR](https://annovar.openbioinformatics.org/en/latest/) - Functional annotation of genetic variants using gene-, region-, and filter-based annotations.
 - [barricklab/breseq](https://github.com/barricklab/breseq) - A computational pipeline for finding mutations relative to a reference sequence in short-read DNA resequencing data. It is intended for haploid microbial genomes.
+- [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
+- [broadinstitute/gatk](https://github.com/broadinstitute/gatk) - Toolkit for variant discovery and genotyping, with tools for germline and somatic analysis.
 - [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - GATK RNA-Seq variant calling in Nextflow.
-- [HKU-BAL/Clair3](https://github.com/HKU-BAL/Clair3) - A germline small variant caller for long-reads.
+- [DeepVariant](https://github.com/google/deepvariant) - Deep learning-based germline variant caller for short-read, HiFi, and nanopore sequencing data.
+- [dellytools/delly](https://github.com/dellytools/delly) - Structural variant discovery using paired-end and split-read evidence.
+- [Ensembl VEP](https://www.ensembl.org/info/docs/tools/vep/index.html) - Predicts variant effects on genes, transcripts, proteins, and regulatory regions.
+- [freebayes/freebayes](https://github.com/freebayes/freebayes) - Haplotype-based caller for SNPs, indels, MNPs, and complex small variants.
 - [fritzsedlazeck/Sniffles](https://github.com/fritzsedlazeck/Sniffles) - A fast structural variant caller for long-read sequence data.
 - [fritzsedlazeck/SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - Toolset for SV simulation, comparison and filtering.
+- [HKU-BAL/Clair3](https://github.com/HKU-BAL/Clair3) - A germline small variant caller for long-reads.
 - [marbl/gingr](https://github.com/marbl/gingr) - A flexible platform for visualizing and compressing alignments and phylogenetic trees.
 - [marbl/parsnp](https://github.com/marbl/parsnp) - A command-line tool for efficient microbial core genome alignment and SNP detection.
 - [mkirsche/Jasmine](https://github.com/mkirsche/Jasmine) - A pipeline for accurately detecting SVs and comparing variant calls across large numbers of individuals.
 - [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing.
+- [OpenCRAVAT](https://www.opencravat.org/) - A web-based and command-line platform for annotating, prioritizing, and interpreting genomic variants.
 - [PacificBiosciences/pbsv](https://github.com/PacificBiosciences/pbsv) - PacBio structural variant calling and analysis tools.
+- [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
 - [PoisonAlien/maftools](https://github.com/PoisonAlien/maftools) - Summarize, analyze and visualize MAF files from TCGA or in-house studies.
 - [ryanlayer/samplot](https://github.com/ryanlayer/samplot) - Plot structural variant signals from many BAMs and CRAMs.
 - [tjiangHIT/cuteSV](https://github.com/tjiangHIT/cuteSV) - Long-read structural variation detection.
@@ -597,12 +630,10 @@ Table of Contents
 ## VCF files
 
 - [BGI-shenzhen/VCF2Dis](https://github.com/BGI-shenzhen/VCF2Dis) - A simple and efficient tool to calculate a p-distance matrix from VCF files.
-- [brentp/vcfanno](https://github.com/brentp/vcfanno) - Annotate a VCF with other VCFs/BEDs/tabixed files.
 - [dnanexus-rnd/GLnexus](https://github.com/dnanexus-rnd/GLnexus) - Scalable gVCF merging and joint variant calling for population sequencing projects.
 - [freeseek/score](https://github.com/freeseek/score) - Includes BCFtools/liftover, a tool to convert genomic coordinates of variants in VCF format across different genome assemblies.
 - [Illumina/hap.py](https://github.com/Illumina/hap.py) - A tool for benchmarking variant calls against a gold standard truth set.
 - [knausb/vcfR](https://github.com/knausb/vcfR) - A package to manipulate and visualize VCF data in R.
-- [pcingola/SnpEff](https://github.com/pcingola/SnpEff) - Genomic variant annotations and functional effect prediction toolbox.
 - [samtools/bcftools](https://github.com/samtools/bcftools) - A set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
 - [vcflib/vcflib](https://github.com/vcflib/vcflib) - C++ library and command-line tools for parsing and manipulating VCF files.
 - [vcftools/vcftools](https://github.com/vcftools/vcftools) - A set of tools written in Perl and C++ for working with VCF files.
