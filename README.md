@@ -43,6 +43,7 @@ Table of Contents
   - [Sequence searching and clustering](#sequence-searching-and-clustering)
   - [Sequence utilities](#sequence-utilities)
   - [Software development tools](#software-development-tools)
+  - [Spatial genomics](#spatial-genomics)
   - [Statistics](#statistics)
   - [Synthetic data](#synthetic-data)
   - [Tabular data and exploratory data analysis](#tabular-data-and-exploratory-data-analysis)
@@ -468,8 +469,12 @@ Table of Contents
 
 ## Single-cell
 
+- [cole-trapnell-lab/monocle3](https://github.com/cole-trapnell-lab/monocle3) - R toolkit for analyzing single-cell RNA-seq data and learning trajectories.
+- [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq) - Nextflow pipeline for processing barcode-based single-cell RNA-seq data.
 - [satijalab/seurat](https://github.com/satijalab/seurat) - R toolkit for single-cell genomics.
 - [scverse/scanpy](https://github.com/scverse/scanpy) - Python toolkit for scalable single-cell analysis.
+- [scverse/scvi-tools](https://github.com/scverse/scvi-tools) - Python framework for probabilistic modeling and analysis of single-cell omics data.
+- [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) - Bioconductor package for reference-based annotation of single-cell RNA-seq data.
 
 ## Sequence feature utilities
 
@@ -520,6 +525,13 @@ Table of Contents
 - [nteract/papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze Jupyter Notebooks.
 - [RStudio Desktop](https://posit.co/download/rstudio-desktop/) - An integrated development environment for R, a programming language for statistical computing and graphics.
 - [Visual Studio Code](https://code.visualstudio.com) - A source-code editor for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
+
+## Spatial genomics
+
+- [nf-core/sopa](https://github.com/nf-core/sopa) - Nextflow pipeline for processing and analyzing single-cell-resolution spatial omics data.
+- [scverse/spatialdata](https://github.com/scverse/spatialdata) - Python framework for representing and interoperably processing multimodal spatial omics data.
+- [scverse/squidpy](https://github.com/scverse/squidpy) - Python toolkit for scalable analysis and visualization of spatial molecular data.
+- [SpatialExperiment](https://bioconductor.org/packages/release/bioc/html/SpatialExperiment.html) - Bioconductor infrastructure for storing spatially resolved omics data.
 
 ## Statistics
 
