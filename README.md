@@ -412,6 +412,7 @@ Table of Contents
 
 - [ADMIXTURE](https://dalexander.github.io/admixture/) - A software tool for maximum likelihood estimation of individual ancestries from multilocus SNP genotype datasets.
 - [ANGSD/angsd](https://github.com/ANGSD/angsd) - Perform population genetic analyses using raw sequencing data or by using genotype likelihoods.
+- [mathieu.gautier/baypass_public](https://forge.inrae.fr/mathieu.gautier/baypass_public) - Identify genetic markers under selection or associated with population-specific covariates while accounting for population structure.
 - [Cervus](http://www.fieldgenetics.com/pages/aboutCervus_Overview.jsp) - A tool for parentage analysis that supports microsatellite and SNP data.
 - [COLONY](https://www.zsl.org/about-zsl/resources/software/colony) - Can be used in estimating full- and half-sib relationships, assigning parentage, inferring mating system (polygamous/monogamous) and reproductive skew in both diploid and haplo-diploid species.
 - [fastStructure](https://rajanil.github.io/fastStructure/) - Infer population structure from large SNP genotype data.
