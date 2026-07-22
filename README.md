@@ -226,6 +226,7 @@ Table of Contents
 
 - [bcgsc/ntSynt-viz](https://github.com/bcgsc/ntSynt-viz) - Generate ribbon plots to visualize multi-genome synteny blocks.
 - [bluenote-1577/skani](https://github.com/bluenote-1577/skani) - Fast, robust ANI and aligned fraction for genomes and contigs.
+- [ComparativeGenomicsToolkit/cactus](https://github.com/ComparativeGenomicsToolkit/cactus) - Reference-free whole-genome alignment and pangenome graph construction toolkit.
 - [evotools/nf-LO](https://github.com/evotools/nf-LO) - A Nextflow workflow to generate liftOver files for any pair of genomes.
 - [gamcil/clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [lastz/lastz](https://github.com/lastz/lastz) - A program for aligning DNA sequences, a pairwise aligner.
