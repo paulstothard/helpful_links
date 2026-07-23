@@ -18,7 +18,7 @@ Table of Contents
   - [Data visualization](#data-visualization)
   - [Diagrams, flowcharts and maps](#diagrams-flowcharts-and-maps)
   - [Document conversion and manipulation](#document-conversion-and-manipulation)
-  - [Documentation creation and publishing](#documentation-creation-and-publishing)
+  - [Documentation and website publishing](#documentation-and-website-publishing)
   - [EMBL-EBI](#embl-ebi)
   - [Genome alignment and comparison](#genome-alignment-and-comparison)
   - [Genome annotation and sequence characterization](#genome-annotation-and-sequence-characterization)
@@ -34,6 +34,7 @@ Table of Contents
   - [NCBI](#ncbi)
   - [Phylogenetics and phylogenomics](#phylogenetics-and-phylogenomics)
   - [Population genetics and conservation](#population-genetics-and-conservation)
+  - [Presentations and typesetting](#presentations-and-typesetting)
   - [Programming](#programming)
   - [Raw sequence data processing and QC](#raw-sequence-data-processing-and-qc)
   - [RNA-Seq](#rna-seq)
@@ -197,26 +198,22 @@ Table of Contents
 - [PDFgear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
 
-## Documentation creation and publishing
+## Documentation and website publishing
 
 - [Antora](https://antora.org/) - A modular documentation site generator designed for technical documentation sites with customizable AsciiDoc structure for managing large-scale projects.
 - [Astro](https://astro.build/) - A modern static site generator allowing the creation of websites using a mix of static and dynamic components, supporting various rendering engines and frameworks.
 - [Docusaurus](https://docusaurus.io/) - An open-source framework for building static websites, particularly for documentation, with simple configuration, Markdown support, versioning, search, and localization.
 - [GitBook](https://www.gitbook.com/) - An online platform for creating and hosting documentation with version control, team collaboration, and integrations for a collaborative writing environment.
 - [honkit/honkit](https://github.com/honkit/honkit) - A command-line tool and Node.js library based on GitBook for building  online documentation or ebooks using Markdown files.
-- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - A Markdown-based typesetting system that can be used to create a print-ready book or an interactive presentation.
 - [Jekyll](https://jekyllrb.com/) - A static site generator for creating websites or blogs using plain text files and Markdown syntax with customizable templates.
 - [JupyterBook](https://jupyterbook.org/) - An open-source tool for building interactive, publication-quality books and documentation using Jupyter Notebooks and Markdown, incorporating code, visualizations, and interactive elements.
-- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - Converts simple HTML pages into visually appealing PDF reports, invoices, and posters.
 - [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto) - A curated list of Quarto talks, tools, examples and articles.
 - [MdBook](https://rust-lang.github.io/mdBook/) - A command-line utility that generates books or documentation websites from Markdown files, focusing on simplicity with table of contents, navigation, and search functionality.
-- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
 - [MkDocs](https://www.mkdocs.org/) - A Python-based static site generator for creating documentation websites using Markdown and YAML configuration, offering themes and plugins.
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) - A theme for MkDocs with a modern and responsive design, customizable navigation, search, and a clean user interface.
 - [Nextra](https://nextra.site/) - A minimalist and customizable Next.js theme for building documentation websites with Markdown and code syntax highlighting.
-- [paulstothard/fast-pptx](https://github.com/paulstothard/fast-pptx) - Generate Markdown and PowerPoint slides from a folder of images, code snippets, and other files.
 - [Quarto](https://quarto.org/) - A scientific computing environment integrating Markdown, code, and output into a single format, enabling reproducible reports, books, or websites with multiple language support and rich media content.
 - [secretGeek/clowncar](https://github.com/secretGeek/clowncar) - A lightweight static site generator converting Markdown files into HTML pages without complex configurations or dependencies.
-- [Typst](https://typst.app/) - A modern markup-based typesetting system designed for scientific writing with a simple syntax, fast compilation, and built-in support for mathematical equations, bibliographies, and figures.
 
 ## EMBL-EBI
 
@@ -424,6 +421,14 @@ Table of Contents
 - [NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) - A tool for estimating individual admixture proportions from NGS data that makes use of genotype likelihoods and works well for medium and low coverage NGS data.
 - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure.html) - Use multi-locus genotype data to investigate population structure.
 - [thibautjombart/adegenet](https://github.com/thibautjombart/adegenet) - An R package package for the exploratory analysis of genetic data.
+
+## Presentations and typesetting
+
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - A Markdown-based typesetting system that can be used to create a print-ready book or an interactive presentation.
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - Converts simple HTML pages into visually appealing PDF reports, invoices, and posters.
+- [nyblnet/bento](https://github.com/nyblnet/bento) - A local-first PowerPoint alternative whose editor, viewer, and presentation are contained in a single HTML file.
+- [paulstothard/fast-pptx](https://github.com/paulstothard/fast-pptx) - Generate Markdown and PowerPoint slides from a folder of images, code snippets, and other files.
+- [Typst](https://typst.app/) - A modern markup-based typesetting system designed for scientific writing with a simple syntax, fast compilation, and built-in support for mathematical equations, bibliographies, and figures.
 
 ## Programming
 
