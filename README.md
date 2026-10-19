@@ -188,6 +188,7 @@ Table of Contents
 - [k4m454k/MapPosterCreator](https://github.com/k4m454k/MapPosterCreator) - Create beautiful maps using OpenStreetMap data.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams and flowcharts from text.
 - [MyOSMatic](https://print.get-map.org) - A free software web service that allows you to generate maps of cities using OpenStreetMap data.
+- [obsidianmd/pele](https://github.com/obsidianmd/pele) - A lightweight library for rendering Mermaid diagrams to SVG with no runtime dependencies.
 
 ## Document conversion and manipulation
 
